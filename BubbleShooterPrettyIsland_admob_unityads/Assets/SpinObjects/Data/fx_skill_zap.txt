@@ -1,0 +1,39 @@
+{
+"skeleton": { "hash": "2+iQwJ7MOn51hnWicN9P3eJP4Es", "spine": "3.4.02", "width": 81.02, "height": 82.09 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fx", "parent": "root", "scaleX": 0.355, "scaleY": 0.355 }
+],
+"slots": [
+	{ "name": "images/ball_dian", "bone": "root", "attachment": "images/ball_dian" },
+	{ "name": "images/zap_wai_01", "bone": "fx", "attachment": "images/zap_wai_01", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"images/ball_dian": {
+			"images/ball_dian": { "width": 64, "height": 64 }
+		},
+		"images/zap_wai_01": {
+			"images/zap_wai_01": { "width": 228, "height": 231 },
+			"images/zap_wai_02": { "width": 228, "height": 231 },
+			"images/zap_wai_03": { "width": 228, "height": 231 },
+			"images/zap_wai_04": { "width": 228, "height": 231 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"images/zap_wai_01": {
+				"attachment": [
+					{ "time": 0, "name": "images/zap_wai_01" },
+					{ "time": 0.1, "name": "images/zap_wai_02" },
+					{ "time": 0.2, "name": "images/zap_wai_03" },
+					{ "time": 0.3, "name": "images/zap_wai_04" },
+					{ "time": 0.4, "name": "images/zap_wai_04" }
+				]
+			}
+		}
+	}
+}
+}

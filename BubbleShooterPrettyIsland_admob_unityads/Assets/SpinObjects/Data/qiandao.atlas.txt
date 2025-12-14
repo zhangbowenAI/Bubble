@@ -1,0 +1,27 @@
+
+qiandao.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+benzi
+  rotate: false
+  xy: 2, 96
+  size: 89, 103
+  orig: 91, 105
+  offset: 1, 1
+  index: -1
+bi
+  rotate: false
+  xy: 93, 140
+  size: 75, 59
+  orig: 77, 61
+  offset: 1, 1
+  index: -1
+gou
+  rotate: true
+  xy: 2, 2
+  size: 92, 76
+  orig: 120, 113
+  offset: 17, 14
+  index: -1

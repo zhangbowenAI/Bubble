@@ -1,0 +1,42 @@
+{
+"skeleton": { "hash": "RIXRlCM7kJCGkVy6vdt55vSclwk", "spine": "3.4.02", "width": 206, "height": 150 },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "images/fire_1", "bone": "root", "attachment": "images/fire_1" }
+],
+"skins": {
+	"default": {
+		"images/fire_1": {
+			"images/fire_1": { "width": 206, "height": 150 },
+			"images/fire_2": { "width": 206, "height": 150 },
+			"images/fire_3": { "width": 206, "height": 150 },
+			"images/fire_4": { "width": 206, "height": 150 },
+			"images/fire_5": { "width": 206, "height": 150 },
+			"images/fire_6": { "width": 206, "height": 150 },
+			"images/fire_7": { "width": 206, "height": 150 },
+			"images/fire_8": { "width": 206, "height": 150 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"images/fire_1": {
+				"attachment": [
+					{ "time": 0, "name": "images/fire_1" },
+					{ "time": 0.0666, "name": "images/fire_2" },
+					{ "time": 0.1333, "name": "images/fire_3" },
+					{ "time": 0.2, "name": "images/fire_4" },
+					{ "time": 0.2666, "name": "images/fire_5" },
+					{ "time": 0.3333, "name": "images/fire_6" },
+					{ "time": 0.4, "name": "images/fire_7" },
+					{ "time": 0.4666, "name": "images/fire_8" },
+					{ "time": 0.5333, "name": null }
+				]
+			}
+		}
+	}
+}
+}

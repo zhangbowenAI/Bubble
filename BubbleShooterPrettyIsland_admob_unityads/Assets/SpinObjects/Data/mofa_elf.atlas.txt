@@ -1,0 +1,146 @@
+
+mofa_elf.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fx/fx_01
+  rotate: false
+  xy: 2, 327
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/fx/fx_02
+  rotate: false
+  xy: 91, 416
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/fx/fx_03
+  rotate: false
+  xy: 2, 247
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/fx/fx_04
+  rotate: false
+  xy: 172, 416
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/fx/fx_05
+  rotate: false
+  xy: 2, 167
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/fx/fx_06
+  rotate: false
+  xy: 253, 416
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/fx/fx_07
+  rotate: false
+  xy: 2, 87
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/fx/fx_08
+  rotate: false
+  xy: 334, 416
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/fx/fx_09
+  rotate: false
+  xy: 2, 7
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/fx/fx_10
+  rotate: false
+  xy: 415, 416
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/fx/fx_11
+  rotate: false
+  xy: 91, 336
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/fx/fx_12
+  rotate: false
+  xy: 172, 336
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/fx/fx_13
+  rotate: false
+  xy: 253, 336
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/fx/fx_14
+  rotate: false
+  xy: 334, 336
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/fx/fx_15
+  rotate: false
+  xy: 415, 336
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/fx/fx_16
+  rotate: false
+  xy: 83, 256
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/fx/fx_17
+  rotate: false
+  xy: 83, 176
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/fx/fx_18
+  rotate: false
+  xy: 164, 256
+  size: 79, 78
+  orig: 120, 120
+  offset: 21, 21
+  index: -1
+images/light
+  rotate: false
+  xy: 83, 146
+  size: 24, 28
+  orig: 97, 97
+  offset: 17, 56
+  index: -1
+images/quan
+  rotate: false
+  xy: 2, 407
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,149 @@
+{
+"skeleton": { "hash": "IsIm5GHzNJNHEyGJVSOzxh+y1K0", "spine": "3.4.02", "width": 271, "height": 260 },
+"bones": [
+	{ "name": "fx_ui_goalStar" },
+	{ "name": "glow", "parent": "fx_ui_goalStar", "scaleX": 1.598, "scaleY": 1.598 },
+	{ "name": "goalStar", "parent": "fx_ui_goalStar" },
+	{ "name": "light", "parent": "fx_ui_goalStar" }
+],
+"slots": [
+	{ "name": "res/win_glow", "bone": "glow", "attachment": "res/win_glow", "blend": "additive" },
+	{ "name": "goalStar2", "bone": "goalStar", "attachment": "res/game_icon_star_1a" },
+	{ "name": "res/win_light01", "bone": "light", "attachment": "res/fx_xingxing_guangxian_001", "blend": "screen" }
+],
+"skins": {
+	"default": {
+		"goalStar2": {
+			"res/game_icon_star_1a": { "scaleX": 0.502, "scaleY": 0.502, "width": 76, "height": 80 }
+		},
+		"res/win_glow": {
+			"res/win_glow": { "width": 100, "height": 100 }
+		},
+		"res/win_light01": {
+			"res/fx_xingxing_guangxian_000": { "y": 20.64, "width": 271, "height": 260 },
+			"res/fx_xingxing_guangxian_001": { "y": 20.64, "width": 271, "height": 260 },
+			"res/fx_xingxing_guangxian_002": { "y": 20.64, "width": 271, "height": 260 },
+			"res/fx_xingxing_guangxian_003": { "y": 20.64, "width": 271, "height": 260 },
+			"res/fx_xingxing_guangxian_004": { "y": 20.64, "width": 271, "height": 260 },
+			"res/fx_xingxing_guangxian_005": { "y": 20.64, "width": 271, "height": 260 },
+			"res/fx_xingxing_guangxian_006": { "y": 20.64, "width": 271, "height": 260 },
+			"res/fx_xingxing_guangxian_007": { "y": 20.64, "width": 271, "height": 260 },
+			"res/fx_xingxing_guangxian_008": { "y": 20.64, "width": 271, "height": 260 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"res/win_glow": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffef9000",
+						"curve": [ 0.926, 0.1, 0.935, 0.94 ]
+					},
+					{ "time": 0.3333, "color": "ffef90ff" },
+					{ "time": 0.4666, "color": "fffac6ff" },
+					{ "time": 0.6, "color": "ffef90ff" },
+					{ "time": 0.7666, "color": "ffef9083" }
+				]
+			},
+			"res/win_light01": {
+				"color": [
+					{
+						"time": 0,
+						"color": "fffff0ff",
+						"curve": [ 0.926, 0.1, 0.935, 0.94 ]
+					},
+					{ "time": 0.5666, "color": "fff99eff" },
+					{ "time": 0.7666, "color": "fff99e00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "res/fx_xingxing_guangxian_000" },
+					{ "time": 0.0666, "name": "res/fx_xingxing_guangxian_001" },
+					{ "time": 0.1333, "name": "res/fx_xingxing_guangxian_002" },
+					{ "time": 0.2, "name": "res/fx_xingxing_guangxian_003" },
+					{ "time": 0.2666, "name": "res/fx_xingxing_guangxian_004" },
+					{ "time": 0.3333, "name": "res/fx_xingxing_guangxian_005" },
+					{ "time": 0.4, "name": "res/fx_xingxing_guangxian_006" },
+					{ "time": 0.4666, "name": "res/fx_xingxing_guangxian_007" },
+					{ "time": 0.5333, "name": "res/fx_xingxing_guangxian_008" },
+					{ "time": 0.6, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"goalStar": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.926, 0.1, 0.935, 0.94 ]
+					},
+					{
+						"time": 0.3333,
+						"x": 1.5,
+						"y": 1.5,
+						"curve": [ 0.626, 0.09, 0.881, 0.59 ]
+					},
+					{
+						"time": 0.5,
+						"x": 0.8,
+						"y": 0.8,
+						"curve": [ 0.622, 0.5, 0.771, 0.93 ]
+					},
+					{ "time": 0.6666, "x": 1.1, "y": 1.1 },
+					{ "time": 0.7666, "x": 1, "y": 1 }
+				]
+			},
+			"glow": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 0,
+						"curve": [ 0.926, 0.1, 0.935, 0.94 ]
+					},
+					{ "time": 0.3333, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.6, "x": 1, "y": 1 },
+					{ "time": 0.7666, "x": 0.666, "y": 0.666 }
+				]
+			},
+			"light": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 0,
+						"y": 1,
+						"curve": [ 0.926, 0.1, 0.935, 0.94 ]
+					},
+					{ "time": 0.1666, "x": 0, "y": 0 },
+					{ "time": 0.4666, "x": 1, "y": 1 }
+				]
+			}
+		}
+	},
+	"static": {
+		"slots": {
+			"res/win_glow": {
+				"color": [
+					{ "time": 0, "color": "ffef9083" }
+				]
+			},
+			"res/win_light01": {
+				"color": [
+					{ "time": 0, "color": "fff99e00" }
+				]
+			}
+		},
+		"bones": {
+			"glow": {
+				"scale": [
+					{ "time": 0, "x": 0.666, "y": 0.666 }
+				]
+			}
+		}
+	}
+}
+}

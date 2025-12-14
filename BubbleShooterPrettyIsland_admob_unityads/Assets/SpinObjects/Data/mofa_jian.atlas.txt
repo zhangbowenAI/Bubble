@@ -1,0 +1,48 @@
+
+mofa_jian.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/body_1
+  rotate: false
+  xy: 2, 57
+  size: 56, 72
+  orig: 59, 75
+  offset: 2, 2
+  index: -1
+images/body_2
+  rotate: false
+  xy: 2, 131
+  size: 59, 75
+  orig: 59, 75
+  offset: 0, 0
+  index: -1
+images/guangquan
+  rotate: false
+  xy: 63, 148
+  size: 57, 58
+  orig: 97, 97
+  offset: 21, 19
+  index: -1
+images/light
+  rotate: false
+  xy: 2, 27
+  size: 24, 28
+  orig: 97, 97
+  offset: 17, 56
+  index: -1
+images/wing_1
+  rotate: false
+  xy: 2, 2
+  size: 17, 23
+  orig: 20, 27
+  offset: 1, 2
+  index: -1
+images/wing_2
+  rotate: false
+  xy: 122, 179
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1

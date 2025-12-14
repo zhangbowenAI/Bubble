@@ -1,0 +1,146 @@
+
+fx_feizhu_jiesuan.png
+size: 757,757
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
++200
+  rotate: false
+  xy: 338, 25
+  size: 126, 42
+  orig: 140, 56
+  offset: 7, 7
+  index: -1
+body
+  rotate: true
+  xy: 516, 508
+  size: 247, 197
+  orig: 247, 197
+  offset: 0, 0
+  index: -1
+body_mask
+  rotate: true
+  xy: 651, 431
+  size: 75, 45
+  orig: 75, 45
+  offset: 0, 0
+  index: -1
+ear_L
+  rotate: true
+  xy: 273, 2
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+ear_L_1
+  rotate: false
+  xy: 475, 203
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+ear_R
+  rotate: false
+  xy: 516, 312
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+eye_L
+  rotate: false
+  xy: 516, 245
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+eye_R
+  rotate: false
+  xy: 715, 704
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+eyebrow_L
+  rotate: true
+  xy: 698, 487
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+eyebrow_R
+  rotate: false
+  xy: 405, 5
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+fx_feizhu_light
+  rotate: false
+  xy: 2, 243
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+fx_jinzhu_jiesuan_03
+  rotate: false
+  xy: 2, 8
+  size: 269, 233
+  orig: 314, 304
+  offset: 17, 29
+  index: -1
+hair
+  rotate: false
+  xy: 651, 401
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+leg_L_front
+  rotate: false
+  xy: 606, 359
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+leg_R_front
+  rotate: false
+  xy: 606, 359
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+leg_R_behind
+  rotate: true
+  xy: 715, 722
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 516, 397
+  size: 133, 109
+  orig: 133, 109
+  offset: 0, 0
+  index: -1
+opening
+  rotate: false
+  xy: 338, 2
+  size: 65, 21
+  orig: 65, 21
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 516, 263
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+zuanshi
+  rotate: false
+  xy: 273, 69
+  size: 200, 172
+  orig: 200, 172
+  offset: 0, 0
+  index: -1

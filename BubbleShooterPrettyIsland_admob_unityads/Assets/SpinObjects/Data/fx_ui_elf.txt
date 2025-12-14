@@ -1,0 +1,64 @@
+{
+"skeleton": { "hash": "2Nwwhb3dNWbbCPCPPMyiSZx+Es8", "spine": "3.4.02", "width": 360.41, "height": 360.41 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root" },
+	{ "name": "bone2", "parent": "root", "rotation": 39.57 }
+],
+"slots": [
+	{ "name": "fx_ui_dongwu", "bone": "bone", "attachment": "res/tex_light_0018_" },
+	{ "name": "fx_ui_dongwu2", "bone": "bone2", "color": "ffffff46", "attachment": "res/tex_light_0018_" }
+],
+"skins": {
+	"default": {
+		"fx_ui_dongwu": {
+			"res/tex_light_0018_": { "width": 256, "height": 256 }
+		},
+		"fx_ui_dongwu2": {
+			"res/tex_light_0018_": { "width": 256, "height": 256 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"fx_ui_dongwu": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			},
+			"fx_ui_dongwu2": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.0666, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.3333, "x": 1, "y": 1 },
+					{ "time": 0.5, "x": 1.4, "y": 1.4 }
+				]
+			},
+			"bone": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.2666, "angle": 90 },
+					{ "time": 0.5, "angle": 180 }
+				]
+			},
+			"bone2": {
+				"rotate": [
+					{ "time": 0, "angle": 0.42 },
+					{ "time": 0.2666, "angle": -79.57 },
+					{ "time": 0.5, "angle": -119.57 }
+				]
+			}
+		}
+	}
+}
+}

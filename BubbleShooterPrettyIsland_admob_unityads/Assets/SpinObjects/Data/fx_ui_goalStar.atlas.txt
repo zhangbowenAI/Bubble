@@ -1,0 +1,83 @@
+
+fx_ui_goalStar.png
+size: 782,782
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+res/fx_xingxing_guangxian_000
+  rotate: false
+  xy: 370, 124
+  size: 127, 121
+  orig: 271, 260
+  offset: 72, 63
+  index: -1
+res/fx_xingxing_guangxian_001
+  rotate: false
+  xy: 228, 108
+  size: 140, 137
+  orig: 271, 260
+  offset: 66, 56
+  index: -1
+res/fx_xingxing_guangxian_002
+  rotate: false
+  xy: 547, 603
+  size: 183, 177
+  orig: 271, 260
+  offset: 44, 38
+  index: -1
+res/fx_xingxing_guangxian_003
+  rotate: false
+  xy: 2, 31
+  size: 224, 214
+  orig: 271, 260
+  offset: 24, 22
+  index: -1
+res/fx_xingxing_guangxian_004
+  rotate: true
+  xy: 523, 251
+  size: 269, 257
+  orig: 271, 260
+  offset: 1, 2
+  index: -1
+res/fx_xingxing_guangxian_005
+  rotate: false
+  xy: 2, 520
+  size: 270, 260
+  orig: 271, 260
+  offset: 1, 0
+  index: -1
+res/fx_xingxing_guangxian_006
+  rotate: false
+  xy: 274, 522
+  size: 271, 258
+  orig: 271, 260
+  offset: 0, 2
+  index: -1
+res/fx_xingxing_guangxian_007
+  rotate: true
+  xy: 263, 247
+  size: 271, 258
+  orig: 271, 260
+  offset: 0, 2
+  index: -1
+res/fx_xingxing_guangxian_008
+  rotate: true
+  xy: 2, 247
+  size: 271, 259
+  orig: 271, 260
+  offset: 0, 1
+  index: -1
+res/game_icon_star_1a
+  rotate: false
+  xy: 547, 522
+  size: 76, 79
+  orig: 76, 80
+  offset: 0, 1
+  index: -1
+res/win_glow
+  rotate: false
+  xy: 228, 6
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

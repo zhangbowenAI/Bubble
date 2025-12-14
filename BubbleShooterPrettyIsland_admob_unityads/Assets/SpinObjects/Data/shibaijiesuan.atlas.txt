@@ -1,0 +1,48 @@
+
+shibaijiesuan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gantanhao
+  rotate: false
+  xy: 264, 264
+  size: 66, 122
+  orig: 68, 124
+  offset: 1, 1
+  index: -1
+glow
+  rotate: false
+  xy: 2, 133
+  size: 260, 253
+  orig: 262, 255
+  offset: 1, 1
+  index: -1
+glow01
+  rotate: false
+  xy: 2, 388
+  size: 447, 454
+  orig: 449, 456
+  offset: 1, 1
+  index: -1
+shibai
+  rotate: true
+  xy: 451, 254
+  size: 588, 163
+  orig: 590, 165
+  offset: 1, 1
+  index: -1
+xin
+  rotate: false
+  xy: 2, 2
+  size: 138, 129
+  orig: 140, 131
+  offset: 1, 1
+  index: -1
+xingxing
+  rotate: false
+  xy: 616, 631
+  size: 197, 211
+  orig: 199, 213
+  offset: 1, 1
+  index: -1

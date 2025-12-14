@@ -1,0 +1,45 @@
+{
+"skeleton": { "hash": "hV0k9EgGOhYq6BVOCPjWJlIuhBQ", "spine": "3.4.02", "width": 204.71, "height": 199.24 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fx", "parent": "root", "scaleX": 0.782, "scaleY": 0.782 },
+	{ "name": "images/light2", "parent": "root", "rotation": 14.93, "scaleX": 0.595, "scaleY": 0.595 }
+],
+"slots": [
+	{ "name": "images/light2", "bone": "images/light2", "attachment": "images/light2" },
+	{ "name": "images/general_ray_0", "bone": "fx", "attachment": "images/light" },
+	{ "name": "images/levelsales_icon_chests_4", "bone": "root" }
+],
+"skins": {
+	"default": {
+		"images/general_ray_0": {
+			"images/light": { "width": 241, "height": 241 }
+		},
+		"images/light2": {
+			"images/light2": { "x": -0.67, "y": 8.01, "scaleX": 1.439, "scaleY": 1.439, "width": 197, "height": 188 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"bones": {
+			"fx": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 2, "angle": -120 },
+					{ "time": 4, "angle": -240 },
+					{ "time": 6, "angle": 360 }
+				]
+			},
+			"images/light2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 2, "angle": 120 },
+					{ "time": 4, "angle": 240 },
+					{ "time": 6, "angle": 360 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,27 @@
+
+fx_dost_fly.png
+size: 181,181
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/elf_body
+  rotate: false
+  xy: 99, 145
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+images/elf_wingL
+  rotate: false
+  xy: 2, 90
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+images/elf_wingR
+  rotate: false
+  xy: 2, 2
+  size: 98, 86
+  orig: 98, 86
+  offset: 0, 0
+  index: -1

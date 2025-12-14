@@ -1,0 +1,73 @@
+{
+"skeleton": { "hash": "Pg/icD9iZOUjEjH7RRVg0trZrbY", "spine": "3.4.02", "width": 769.17, "height": 1280 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "dots", "parent": "root" },
+	{ "name": "fx_zap", "parent": "root", "x": 5.41, "y": 6.06, "scaleX": 1.709, "scaleY": 1.5 }
+],
+"slots": [
+	{ "name": "bg", "bone": "root" },
+	{ "name": "images/dots", "bone": "dots", "color": "ffffff45", "attachment": "images/dots", "blend": "additive" },
+	{ "name": "images/bigzap_01", "bone": "fx_zap", "attachment": "images/bigzap_06" }
+],
+"skins": {
+	"default": {
+		"images/bigzap_01": {
+			"images/bigzap_01": { "width": 450, "height": 50 },
+			"images/bigzap_02": { "width": 450, "height": 50 },
+			"images/bigzap_03": { "width": 450, "height": 50 },
+			"images/bigzap_04": { "width": 450, "height": 50 },
+			"images/bigzap_05": { "width": 450, "height": 50 },
+			"images/bigzap_06": { "width": 450, "height": 50 },
+			"images/bigzap_07": { "width": 450, "height": 50 },
+			"images/bigzap_08": { "width": 450, "height": 50 }
+		},
+		"images/dots": {
+			"images/dots": { "width": 64, "height": 64 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"images/bigzap_01": {
+				"attachment": [
+					{ "time": 0, "name": "images/bigzap_01" },
+					{ "time": 0.0666, "name": "images/bigzap_02" },
+					{ "time": 0.1333, "name": "images/bigzap_03" },
+					{ "time": 0.2, "name": "images/bigzap_04" },
+					{ "time": 0.2666, "name": "images/bigzap_05" },
+					{ "time": 0.3333, "name": "images/bigzap_06" },
+					{ "time": 0.4, "name": "images/bigzap_07" },
+					{ "time": 0.4666, "name": "images/bigzap_08" },
+					{ "time": 0.5333, "name": "images/bigzap_01" },
+					{ "time": 0.6, "name": "images/bigzap_02" },
+					{ "time": 0.6666, "name": "images/bigzap_03" },
+					{ "time": 0.7333, "name": null }
+				]
+			},
+			"images/dots": {
+				"color": [
+					{ "time": 0.3333, "color": "ffffff45" },
+					{ "time": 0.6666, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"fx_zap": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.4666, "x": 1, "y": 1 },
+					{ "time": 0.6666, "x": 1, "y": 0.039 }
+				]
+			},
+			"dots": {
+				"scale": [
+					{ "time": 0, "x": 9.705, "y": 8.083 },
+					{ "time": 0.5333, "x": 46.217, "y": 50.039 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,97 @@
+
+fx_cloud.png
+size: 334,334
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fx_cloud_01
+  rotate: false
+  xy: 237, 30
+  size: 43, 36
+  orig: 129, 111
+  offset: 45, 39
+  index: -1
+images/fx_cloud_02
+  rotate: false
+  xy: 109, 68
+  size: 65, 59
+  orig: 129, 111
+  offset: 34, 32
+  index: -1
+images/fx_cloud_03
+  rotate: false
+  xy: 210, 144
+  size: 93, 78
+  orig: 129, 111
+  offset: 21, 22
+  index: -1
+images/fx_cloud_04
+  rotate: false
+  xy: 129, 237
+  size: 110, 95
+  orig: 129, 111
+  offset: 7, 12
+  index: -1
+images/fx_cloud_05
+  rotate: false
+  xy: 2, 234
+  size: 125, 98
+  orig: 129, 111
+  offset: 0, 8
+  index: -1
+images/fx_cloud_06
+  rotate: false
+  xy: 109, 129
+  size: 99, 103
+  orig: 129, 111
+  offset: 17, 4
+  index: -1
+images/fx_cloud_07
+  rotate: false
+  xy: 2, 18
+  size: 104, 106
+  orig: 129, 111
+  offset: 14, 2
+  index: -1
+images/fx_cloud_08
+  rotate: false
+  xy: 2, 126
+  size: 105, 106
+  orig: 129, 111
+  offset: 13, 1
+  index: -1
+images/fx_cloud_09
+  rotate: true
+  xy: 241, 224
+  size: 108, 82
+  orig: 129, 111
+  offset: 12, 17
+  index: -1
+images/fx_cloud_10
+  rotate: false
+  xy: 210, 68
+  size: 88, 74
+  orig: 129, 111
+  offset: 9, 27
+  index: -1
+images/fx_cloud_11
+  rotate: false
+  xy: 108, 2
+  size: 60, 64
+  orig: 129, 111
+  offset: 32, 28
+  index: -1
+images/fx_cloud_12
+  rotate: false
+  xy: 170, 26
+  size: 65, 40
+  orig: 129, 111
+  offset: 33, 31
+  index: -1
+images/fx_cloud_13
+  rotate: true
+  xy: 300, 78
+  size: 64, 32
+  orig: 129, 111
+  offset: 32, 54
+  index: -1

@@ -1,0 +1,55 @@
+{
+"skeleton": { "hash": "jDZIcPzYCCsJHIBTiQtColfJkNQ", "spine": "3.4.02", "width": 148, "height": 211 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fx_stone", "parent": "root" }
+],
+"slots": [
+	{ "name": "fx_stone", "bone": "fx_stone", "attachment": "res/fx_stone_00" }
+],
+"skins": {
+	"default": {
+		"fx_stone": {
+			"res/fx_stone_00": { "y": -35.95, "width": 148, "height": 211 },
+			"res/fx_stone_01": { "y": -35.95, "width": 148, "height": 211 },
+			"res/fx_stone_02": { "y": -35.95, "width": 148, "height": 211 },
+			"res/fx_stone_03": { "y": -35.95, "width": 148, "height": 211 },
+			"res/fx_stone_04": { "y": -35.95, "width": 148, "height": 211 },
+			"res/fx_stone_05": { "y": -35.95, "width": 148, "height": 211 },
+			"res/fx_stone_06": { "y": -35.95, "width": 148, "height": 211 },
+			"res/fx_stone_07": { "y": -35.95, "width": 148, "height": 211 },
+			"res/fx_stone_08": { "y": -35.95, "width": 148, "height": 211 },
+			"res/fx_stone_09": { "y": -35.95, "width": 148, "height": 211 },
+			"res/fx_stone_10": { "y": -35.95, "width": 148, "height": 211 },
+			"res/fx_stone_11": { "y": -35.95, "width": 148, "height": 211 },
+			"res/fx_stone_12": { "y": -35.95, "width": 148, "height": 211 },
+			"res/fx_stone_13": { "y": -35.95, "width": 148, "height": 211 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"fx_stone": {
+				"attachment": [
+					{ "time": 0, "name": "res/fx_stone_00" },
+					{ "time": 0.0666, "name": "res/fx_stone_01" },
+					{ "time": 0.1333, "name": "res/fx_stone_02" },
+					{ "time": 0.2, "name": "res/fx_stone_03" },
+					{ "time": 0.2666, "name": "res/fx_stone_04" },
+					{ "time": 0.3333, "name": "res/fx_stone_05" },
+					{ "time": 0.4, "name": "res/fx_stone_06" },
+					{ "time": 0.4666, "name": "res/fx_stone_07" },
+					{ "time": 0.5333, "name": "res/fx_stone_08" },
+					{ "time": 0.6, "name": "res/fx_stone_09" },
+					{ "time": 0.6666, "name": "res/fx_stone_10" },
+					{ "time": 0.7333, "name": "res/fx_stone_11" },
+					{ "time": 0.8, "name": "res/fx_stone_12" },
+					{ "time": 0.8666, "name": "res/fx_stone_13" },
+					{ "time": 0.9333, "name": null }
+				]
+			}
+		}
+	}
+}
+}

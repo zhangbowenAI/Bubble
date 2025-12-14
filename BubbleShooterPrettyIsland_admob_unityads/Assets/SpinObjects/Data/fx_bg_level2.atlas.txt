@@ -1,0 +1,153 @@
+
+fx_bg_level2.png
+size: 275,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+level2_01
+  rotate: true
+  xy: 251, 74
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+level2_02
+  rotate: false
+  xy: 216, 103
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+level2_03
+  rotate: true
+  xy: 148, 100
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+level2_04
+  rotate: true
+  xy: 94, 5
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+level2_05
+  rotate: true
+  xy: 70, 102
+  size: 46, 76
+  orig: 46, 76
+  offset: 0, 0
+  index: -1
+level2_06
+  rotate: false
+  xy: 224, 67
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+level2_07
+  rotate: false
+  xy: 167, 62
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+level2_08
+  rotate: false
+  xy: 64, 2
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+level2_09
+  rotate: false
+  xy: 136, 60
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+level2_10
+  rotate: false
+  xy: 196, 63
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+water/fx_water_000
+  rotate: false
+  xy: 205, 214
+  size: 66, 59
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+water/fx_water_001
+  rotate: false
+  xy: 2, 212
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+water/fx_water_002
+  rotate: false
+  xy: 2, 86
+  size: 65, 61
+  orig: 66, 61
+  offset: 1, 0
+  index: -1
+water/fx_water_003
+  rotate: false
+  xy: 138, 150
+  size: 65, 60
+  orig: 66, 61
+  offset: 1, 0
+  index: -1
+water/fx_water_004
+  rotate: false
+  xy: 70, 150
+  size: 66, 60
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+water/fx_water_005
+  rotate: false
+  xy: 2, 149
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+water/fx_water_006
+  rotate: false
+  xy: 205, 152
+  size: 65, 60
+  orig: 66, 61
+  offset: 1, 0
+  index: -1
+water/fx_water_007
+  rotate: false
+  xy: 138, 212
+  size: 65, 61
+  orig: 66, 61
+  offset: 1, 0
+  index: -1
+water/fx_water_008
+  rotate: false
+  xy: 69, 41
+  size: 65, 59
+  orig: 66, 61
+  offset: 1, 0
+  index: -1
+water/fx_water_009
+  rotate: true
+  xy: 2, 18
+  size: 66, 60
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+water/fx_water_010
+  rotate: false
+  xy: 70, 212
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1

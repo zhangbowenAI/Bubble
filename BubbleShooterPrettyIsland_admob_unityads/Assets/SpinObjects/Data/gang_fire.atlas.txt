@@ -1,0 +1,62 @@
+
+gang_fire.png
+size: 509,509
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fire_1
+  rotate: true
+  xy: 335, 316
+  size: 191, 124
+  orig: 206, 150
+  offset: 11, 2
+  index: -1
+images/fire_2
+  rotate: false
+  xy: 2, 44
+  size: 189, 132
+  orig: 206, 150
+  offset: 13, 2
+  index: -1
+images/fire_3
+  rotate: false
+  xy: 140, 178
+  size: 189, 135
+  orig: 206, 150
+  offset: 14, 2
+  index: -1
+images/fire_4
+  rotate: true
+  xy: 197, 315
+  size: 192, 136
+  orig: 206, 150
+  offset: 11, 2
+  index: -1
+images/fire_5
+  rotate: true
+  xy: 2, 181
+  size: 192, 136
+  orig: 206, 150
+  offset: 10, 2
+  index: -1
+images/fire_6
+  rotate: false
+  xy: 2, 375
+  size: 193, 132
+  orig: 206, 150
+  offset: 10, 2
+  index: -1
+images/fire_7
+  rotate: true
+  xy: 331, 122
+  size: 191, 133
+  orig: 206, 150
+  offset: 12, 2
+  index: -1
+images/fire_8
+  rotate: false
+  xy: 193, 2
+  size: 189, 118
+  orig: 206, 150
+  offset: 11, 2
+  index: -1

@@ -1,0 +1,111 @@
+
+fx_skill_4skill.png
+size: 532,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fx_sijidaiji_00
+  rotate: true
+  xy: 394, 15
+  size: 125, 124
+  orig: 134, 134
+  offset: 1, 8
+  index: -1
+images/fx_sijidaiji_01
+  rotate: false
+  xy: 403, 404
+  size: 127, 126
+  orig: 134, 134
+  offset: 3, 6
+  index: -1
+images/fx_sijidaiji_02
+  rotate: false
+  xy: 136, 270
+  size: 131, 128
+  orig: 134, 134
+  offset: 1, 5
+  index: -1
+images/fx_sijidaiji_03
+  rotate: true
+  xy: 2, 131
+  size: 134, 127
+  orig: 134, 134
+  offset: 0, 4
+  index: -1
+images/fx_sijidaiji_04
+  rotate: false
+  xy: 2, 2
+  size: 132, 127
+  orig: 134, 134
+  offset: 0, 2
+  index: -1
+images/fx_sijidaiji_05
+  rotate: true
+  xy: 257, 138
+  size: 130, 122
+  orig: 134, 134
+  offset: 0, 9
+  index: -1
+images/fx_sijidaiji_06
+  rotate: false
+  xy: 381, 142
+  size: 126, 126
+  orig: 134, 134
+  offset: 5, 7
+  index: -1
+images/fx_sijidaiji_07
+  rotate: false
+  xy: 272, 401
+  size: 129, 129
+  orig: 134, 134
+  offset: 3, 5
+  index: -1
+images/fx_sijidaiji_08
+  rotate: false
+  xy: 2, 267
+  size: 132, 131
+  orig: 134, 134
+  offset: 2, 3
+  index: -1
+images/fx_sijidaiji_09
+  rotate: true
+  xy: 266, 7
+  size: 129, 126
+  orig: 134, 134
+  offset: 2, 8
+  index: -1
+images/fx_sijidaiji_10
+  rotate: true
+  xy: 131, 134
+  size: 131, 124
+  orig: 134, 134
+  offset: 1, 8
+  index: -1
+images/fx_sijidaiji_11
+  rotate: false
+  xy: 269, 270
+  size: 126, 128
+  orig: 134, 134
+  offset: 6, 6
+  index: -1
+images/fx_sijidaiji_12
+  rotate: false
+  xy: 136, 2
+  size: 128, 130
+  orig: 134, 134
+  offset: 4, 3
+  index: -1
+images/fx_sijidaiji_13
+  rotate: false
+  xy: 138, 400
+  size: 132, 130
+  orig: 134, 134
+  offset: 2, 1
+  index: -1
+images/fx_sijidaiji_14
+  rotate: false
+  xy: 2, 400
+  size: 134, 130
+  orig: 134, 134
+  offset: 0, 1
+  index: -1

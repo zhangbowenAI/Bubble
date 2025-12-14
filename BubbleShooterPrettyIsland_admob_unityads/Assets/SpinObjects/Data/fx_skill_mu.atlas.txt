@@ -1,0 +1,97 @@
+
+fx_skill_mu.png
+size: 500,500
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ball_mu
+  rotate: false
+  xy: 123, 65
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/mu_01
+  rotate: false
+  xy: 383, 372
+  size: 115, 126
+  orig: 140, 140
+  offset: 13, 6
+  index: -1
+images/mu_02
+  rotate: true
+  xy: 254, 260
+  size: 116, 124
+  orig: 140, 140
+  offset: 12, 6
+  index: -1
+images/mu_03
+  rotate: false
+  xy: 131, 254
+  size: 121, 122
+  orig: 140, 140
+  offset: 10, 6
+  index: -1
+images/mu_04
+  rotate: false
+  xy: 2, 131
+  size: 124, 120
+  orig: 140, 140
+  offset: 8, 6
+  index: -1
+images/mu_05
+  rotate: false
+  xy: 2, 253
+  size: 127, 121
+  orig: 140, 140
+  offset: 6, 8
+  index: -1
+images/mu_06
+  rotate: false
+  xy: 2, 376
+  size: 127, 122
+  orig: 140, 140
+  offset: 6, 10
+  index: -1
+images/mu_07
+  rotate: false
+  xy: 131, 378
+  size: 125, 120
+  orig: 140, 140
+  offset: 7, 13
+  index: -1
+images/mu_08
+  rotate: false
+  xy: 258, 378
+  size: 123, 120
+  orig: 140, 140
+  offset: 8, 13
+  index: -1
+images/mu_09
+  rotate: false
+  xy: 2, 7
+  size: 119, 122
+  orig: 140, 140
+  offset: 10, 11
+  index: -1
+images/mu_10
+  rotate: false
+  xy: 380, 246
+  size: 116, 124
+  orig: 140, 140
+  offset: 12, 9
+  index: -1
+images/mu_11
+  rotate: false
+  xy: 380, 119
+  size: 115, 125
+  orig: 140, 140
+  offset: 13, 8
+  index: -1
+images/mu_12
+  rotate: true
+  xy: 254, 143
+  size: 115, 124
+  orig: 140, 140
+  offset: 13, 8
+  index: -1

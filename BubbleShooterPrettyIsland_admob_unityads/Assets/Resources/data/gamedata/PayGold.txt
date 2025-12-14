@@ -1,0 +1,14 @@
+编号,图标,金额,金额,GooglePay,IOS,说明文字,说明文字,金币,体力,礼包_道具ID_数量,描述
+PayKey,Icon,iMoney,RMB,GooglePay,IOS,ZHRemark,EnglishRemark,iGold,ilove,Package,描述
+PACKAGE4999,6,$99.99 ,￥648,com.yourpackage.package6,com.yourpackage.package6,超豪华礼包,Legendary Pack,160000,24,3_24|4_24|7_24|5_24|8_24,礼包
+PACKAGE1999,5,$69.99 ,￥448,com.yourpackage.package5,com.yourpackage.package5,顶级大礼包,Mega Pack,105000,12,3_18|4_18|7_18|5_18|8_18,礼包
+PACKAGE999,4,$30.99 ,￥208,com.yourpackage.package4,com.yourpackage.package4,冲星大礼包,Super Pack,45000,8,3_8|4_8|7_8|5_8,礼包
+PACKAGE699,3,$15.99 ,￥108,com.yourpackage.package3,com.yourpackage.package3,闯关大礼包,Master Pack,21000,4,3_4|4_4|7_4|5_4,礼包
+PACKAGE299,2,$7.99 ,￥50,com.yourpackage.package2,com.yourpackage.package2,畅玩大礼包,Pro Pack,9500,2,3_2|4_2|7_2,礼包
+PACKAGE199,1,$3.99 ,￥25,com.yourpackage.package1,com.yourpackage.package1,特惠大礼包,Starter Pack,4500,1,3_1|4_1|7_1,礼包
+Bubble_9999_01,12,$79.99 ,￥518,com.yourpackage.coin120000,com.yourpackage.coin120000,Coin 120000,Coin 120000,120000,0,0,金币购买
+Bubble_4999_01,11,$49.99 ,￥328,com.yourpackage.coin72500,com.yourpackage.coin72500,Coin 72500,Coin 72500,72500,0,0,金币购买
+Bubble_1999_01,10,$19.99 ,￥128,com.yourpackage.coin26000,com.yourpackage.coin26000,Coin 36000,Coin 36000,26000,0,0,金币购买
+Bubble_999_01,9,$9.99 ,￥68,com.yourpackage.coin12000,com.yourpackage.coin12000,Coin 12000,Coin 12000,12000,0,0,金币购买
+Bubble_499_01,8,$4.99 ,￥30,com.yourpackage.coin5500,com.yourpackage.coin5500,Coin 5500,Coin 5500,5500,0,0,金币购买
+Bubble_099_01,7,$0.99 ,￥6,com.yourpackage.coin1000,com.yourpackage.coin1000,Coin 1000,Coin 1000,1000,0,0,金币购买

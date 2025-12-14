@@ -1,0 +1,69 @@
+
+fx_boom.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/boom01
+  rotate: false
+  xy: 177, 286
+  size: 153, 144
+  orig: 173, 146
+  offset: 14, 0
+  index: -1
+images/boom02
+  rotate: false
+  xy: 2, 284
+  size: 173, 146
+  orig: 173, 146
+  offset: 0, 0
+  index: -1
+images/boom03
+  rotate: false
+  xy: 2, 136
+  size: 173, 146
+  orig: 173, 146
+  offset: 0, 0
+  index: -1
+images/boom04
+  rotate: false
+  xy: 332, 303
+  size: 155, 127
+  orig: 173, 146
+  offset: 18, 5
+  index: -1
+images/boom05
+  rotate: false
+  xy: 2, 2
+  size: 165, 132
+  orig: 173, 146
+  offset: 1, 5
+  index: -1
+images/boom06
+  rotate: false
+  xy: 177, 156
+  size: 124, 128
+  orig: 173, 146
+  offset: 29, 5
+  index: -1
+images/boom07
+  rotate: true
+  xy: 303, 156
+  size: 128, 120
+  orig: 173, 146
+  offset: 27, 1
+  index: -1
+images/boom08
+  rotate: false
+  xy: 177, 48
+  size: 124, 106
+  orig: 173, 146
+  offset: 22, 19
+  index: -1
+images/boom09
+  rotate: false
+  xy: 303, 44
+  size: 112, 110
+  orig: 173, 146
+  offset: 24, 15
+  index: -1

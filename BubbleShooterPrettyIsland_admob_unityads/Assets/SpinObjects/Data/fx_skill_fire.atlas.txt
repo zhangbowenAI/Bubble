@@ -1,0 +1,118 @@
+
+fx_skill_fire.png
+size: 532,532
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ball_huo
+  rotate: false
+  xy: 402, 43
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/skill_fire_01
+  rotate: true
+  xy: 145, 24
+  size: 119, 136
+  orig: 120, 150
+  offset: 1, 9
+  index: -1
+images/skill_fire_02
+  rotate: false
+  xy: 410, 390
+  size: 120, 140
+  orig: 120, 150
+  offset: 0, 9
+  index: -1
+images/skill_fire_03
+  rotate: false
+  xy: 2, 389
+  size: 120, 141
+  orig: 120, 150
+  offset: 0, 9
+  index: -1
+images/skill_fire_04
+  rotate: true
+  xy: 2, 267
+  size: 120, 141
+  orig: 120, 150
+  offset: 0, 9
+  index: -1
+images/skill_fire_05
+  rotate: false
+  xy: 283, 2
+  size: 117, 141
+  orig: 120, 150
+  offset: 3, 9
+  index: -1
+images/skill_fire_06
+  rotate: true
+  xy: 2, 24
+  size: 119, 141
+  orig: 120, 150
+  offset: 1, 9
+  index: -1
+images/skill_fire_07
+  rotate: true
+  xy: 124, 410
+  size: 120, 141
+  orig: 120, 150
+  offset: 0, 9
+  index: -1
+images/skill_fire_08
+  rotate: false
+  xy: 410, 248
+  size: 120, 140
+  orig: 120, 150
+  offset: 0, 9
+  index: -1
+images/skill_fire_09
+  rotate: false
+  xy: 145, 267
+  size: 120, 141
+  orig: 120, 150
+  offset: 0, 9
+  index: -1
+images/skill_fire_10
+  rotate: true
+  xy: 2, 145
+  size: 120, 141
+  orig: 120, 150
+  offset: 0, 9
+  index: -1
+images/skill_fire_11
+  rotate: true
+  xy: 145, 145
+  size: 120, 141
+  orig: 120, 150
+  offset: 0, 9
+  index: -1
+images/skill_fire_12
+  rotate: true
+  xy: 267, 410
+  size: 120, 141
+  orig: 120, 150
+  offset: 0, 9
+  index: -1
+images/skill_fire_13
+  rotate: true
+  xy: 267, 288
+  size: 120, 141
+  orig: 120, 150
+  offset: 0, 9
+  index: -1
+images/skill_fire_14
+  rotate: false
+  xy: 288, 145
+  size: 120, 141
+  orig: 120, 150
+  offset: 0, 9
+  index: -1
+images/skill_fire_15
+  rotate: false
+  xy: 410, 109
+  size: 120, 137
+  orig: 120, 150
+  offset: 0, 9
+  index: -1

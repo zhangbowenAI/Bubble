@@ -1,0 +1,104 @@
+
+shitou_remove.png
+size: 503,503
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+res/fx_stone_00
+  rotate: false
+  xy: 2, 358
+  size: 148, 143
+  orig: 148, 211
+  offset: 0, 68
+  index: -1
+res/fx_stone_01
+  rotate: false
+  xy: 392, 149
+  size: 99, 98
+  orig: 148, 211
+  offset: 26, 92
+  index: -1
+res/fx_stone_02
+  rotate: false
+  xy: 387, 249
+  size: 114, 126
+  orig: 148, 211
+  offset: 19, 67
+  index: -1
+res/fx_stone_03
+  rotate: true
+  xy: 129, 97
+  size: 120, 135
+  orig: 148, 211
+  offset: 15, 58
+  index: -1
+res/fx_stone_04
+  rotate: false
+  xy: 129, 219
+  size: 126, 137
+  orig: 148, 211
+  offset: 11, 48
+  index: -1
+res/fx_stone_05
+  rotate: false
+  xy: 266, 105
+  size: 124, 135
+  orig: 148, 211
+  offset: 12, 40
+  index: -1
+res/fx_stone_06
+  rotate: true
+  xy: 307, 377
+  size: 124, 138
+  orig: 148, 211
+  offset: 14, 30
+  index: -1
+res/fx_stone_07
+  rotate: false
+  xy: 2, 46
+  size: 122, 146
+  orig: 148, 211
+  offset: 15, 21
+  index: -1
+res/fx_stone_08
+  rotate: true
+  xy: 152, 378
+  size: 123, 153
+  orig: 148, 211
+  offset: 17, 12
+  index: -1
+res/fx_stone_09
+  rotate: false
+  xy: 2, 194
+  size: 125, 162
+  orig: 148, 211
+  offset: 19, 1
+  index: -1
+res/fx_stone_10
+  rotate: false
+  xy: 257, 242
+  size: 128, 133
+  orig: 148, 211
+  offset: 19, 19
+  index: -1
+res/fx_stone_11
+  rotate: false
+  xy: 126, 38
+  size: 99, 57
+  orig: 148, 211
+  offset: 35, 68
+  index: -1
+res/fx_stone_12
+  rotate: true
+  xy: 447, 441
+  size: 60, 52
+  orig: 148, 211
+  offset: 73, 66
+  index: -1
+res/fx_stone_13
+  rotate: false
+  xy: 257, 235
+  size: 7, 5
+  orig: 148, 211
+  offset: 124, 63
+  index: -1

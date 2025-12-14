@@ -1,0 +1,90 @@
+
+fx_3skill_remove.png
+size: 505,505
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+res/fx_light01
+  rotate: false
+  xy: 2, 131
+  size: 192, 155
+  orig: 474, 432
+  offset: 123, 166
+  index: -1
+res/fx_light02
+  rotate: false
+  xy: 2, 288
+  size: 234, 215
+  orig: 244, 224
+  offset: 4, 3
+  index: -1
+res/fx_white_circle
+  rotate: false
+  xy: 358, 20
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+res/fx_white_light_00
+  rotate: false
+  xy: 244, 18
+  size: 112, 110
+  orig: 133, 133
+  offset: 11, 15
+  index: -1
+res/fx_white_light_01
+  rotate: false
+  xy: 127, 11
+  size: 115, 118
+  orig: 133, 133
+  offset: 13, 8
+  index: -1
+res/fx_white_light_02
+  rotate: false
+  xy: 196, 133
+  size: 123, 123
+  orig: 133, 133
+  offset: 7, 2
+  index: -1
+res/fx_white_light_03
+  rotate: false
+  xy: 238, 381
+  size: 128, 122
+  orig: 133, 133
+  offset: 1, 0
+  index: -1
+res/fx_white_light_04
+  rotate: false
+  xy: 2, 2
+  size: 123, 127
+  orig: 133, 133
+  offset: 0, 1
+  index: -1
+res/fx_white_light_05
+  rotate: true
+  xy: 368, 380
+  size: 123, 126
+  orig: 133, 133
+  offset: 0, 5
+  index: -1
+res/fx_white_light_06
+  rotate: false
+  xy: 238, 258
+  size: 126, 121
+  orig: 133, 133
+  offset: 2, 11
+  index: -1
+res/fx_white_light_07
+  rotate: true
+  xy: 366, 255
+  size: 123, 124
+  orig: 133, 133
+  offset: 7, 7
+  index: -1
+res/fx_white_light_08
+  rotate: false
+  xy: 321, 130
+  size: 123, 123
+  orig: 133, 133
+  offset: 7, 8
+  index: -1

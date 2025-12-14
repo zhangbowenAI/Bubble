@@ -1,0 +1,174 @@
+
+fx_zhadanqiu_Static.png
+size: 680,680
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 204, 156
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+dian
+  rotate: false
+  xy: 511, 112
+  size: 67, 67
+  orig: 187, 187
+  offset: 61, 59
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0000
+  rotate: false
+  xy: 519, 42
+  size: 64, 68
+  orig: 117, 117
+  offset: 33, 27
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0001
+  rotate: false
+  xy: 511, 181
+  size: 73, 73
+  orig: 117, 117
+  offset: 28, 25
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0002
+  rotate: false
+  xy: 597, 216
+  size: 81, 77
+  orig: 117, 117
+  offset: 24, 24
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0003
+  rotate: true
+  xy: 597, 295
+  size: 86, 81
+  orig: 117, 117
+  offset: 21, 22
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0004
+  rotate: false
+  xy: 519, 492
+  size: 97, 87
+  orig: 117, 117
+  offset: 15, 18
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0005
+  rotate: true
+  xy: 427, 9
+  size: 101, 90
+  orig: 117, 117
+  offset: 12, 16
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0006
+  rotate: true
+  xy: 586, 110
+  size: 104, 92
+  orig: 117, 117
+  offset: 10, 15
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0007
+  rotate: true
+  xy: 538, 383
+  size: 107, 94
+  orig: 117, 117
+  offset: 8, 13
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0008
+  rotate: false
+  xy: 519, 581
+  size: 113, 97
+  orig: 117, 117
+  offset: 4, 12
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0009
+  rotate: true
+  xy: 496, 256
+  size: 115, 99
+  orig: 117, 117
+  offset: 2, 11
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0010
+  rotate: true
+  xy: 435, 373
+  size: 116, 101
+  orig: 117, 117
+  offset: 1, 10
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0011
+  rotate: true
+  xy: 393, 253
+  size: 117, 101
+  orig: 117, 117
+  offset: 0, 10
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0012
+  rotate: true
+  xy: 109, 24
+  size: 117, 104
+  orig: 117, 117
+  offset: 0, 9
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0013
+  rotate: true
+  xy: 215, 37
+  size: 117, 104
+  orig: 117, 117
+  offset: 0, 9
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0014
+  rotate: true
+  xy: 321, 37
+  size: 117, 104
+  orig: 117, 117
+  offset: 0, 9
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0015
+  rotate: true
+  xy: 2, 24
+  size: 117, 105
+  orig: 117, 117
+  offset: 0, 9
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0016
+  rotate: true
+  xy: 330, 372
+  size: 117, 103
+  orig: 117, 117
+  offset: 0, 10
+  index: -1
+fx_baozhaqiu_lizi/fx_zhadanqiu_boom_lizi_0017
+  rotate: false
+  xy: 393, 156
+  size: 116, 95
+  orig: 117, 117
+  offset: 0, 16
+  index: -1
+kuosan
+  rotate: false
+  xy: 2, 143
+  size: 200, 200
+  orig: 204, 204
+  offset: 2, 3
+  index: -1
+light_001
+  rotate: false
+  xy: 330, 491
+  size: 187, 187
+  orig: 187, 187
+  offset: 0, 0
+  index: -1
+quan_da
+  rotate: false
+  xy: 585, 21
+  size: 87, 87
+  orig: 187, 187
+  offset: 50, 50
+  index: -1
+zhadanqiu_glow
+  rotate: false
+  xy: 2, 345
+  size: 326, 333
+  orig: 338, 338
+  offset: 9, 5
+  index: -1

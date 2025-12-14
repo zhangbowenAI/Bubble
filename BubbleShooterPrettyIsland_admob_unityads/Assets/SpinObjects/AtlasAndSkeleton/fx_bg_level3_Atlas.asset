@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032742b1cc99cec27a88a64bf3dd6ce5, type: 3}
+  m_Name: "fx_bg_level3_Atlas"
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: b364b2b6426d4611b21d0f0fbeafb5b0, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 90e1fdb034f64d8798502f4341ac6115, type: 2}

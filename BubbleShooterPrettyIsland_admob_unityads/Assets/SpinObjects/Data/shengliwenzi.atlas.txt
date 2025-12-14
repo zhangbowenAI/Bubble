@@ -1,0 +1,27 @@
+
+shengliwenzi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 217
+  size: 296, 158
+  orig: 298, 160
+  offset: 1, 1
+  index: -1
+02
+  rotate: false
+  xy: 2, 65
+  size: 289, 150
+  orig: 291, 152
+  offset: 1, 1
+  index: -1
+03
+  rotate: false
+  xy: 300, 233
+  size: 75, 142
+  orig: 77, 144
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,97 @@
+
+fx_icon_jinzhu.png
+size: 276,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 141, 158
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+jinzhu
+  rotate: false
+  xy: 2, 138
+  size: 137, 136
+  orig: 137, 136
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 2
+  size: 133, 134
+  orig: 133, 134
+  offset: 0, 0
+  index: -1
+star_01
+  rotate: false
+  xy: 137, 60
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+star_02
+  rotate: false
+  xy: 220, 123
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+star_03
+  rotate: false
+  xy: 220, 138
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+star_06
+  rotate: false
+  xy: 220, 138
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+star_07
+  rotate: false
+  xy: 220, 138
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+star_04
+  rotate: false
+  xy: 259, 218
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+star_05
+  rotate: false
+  xy: 181, 106
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+star_xixi
+  rotate: false
+  xy: 137, 79
+  size: 42, 42
+  orig: 64, 64
+  offset: 10, 11
+  index: -1
+ui
+  rotate: false
+  xy: 141, 123
+  size: 77, 33
+  orig: 77, 33
+  offset: 0, 0
+  index: -1
+ziti
+  rotate: true
+  xy: 259, 234
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1

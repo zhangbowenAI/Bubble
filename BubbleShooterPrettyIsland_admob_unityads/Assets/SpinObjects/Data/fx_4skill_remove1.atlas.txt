@@ -1,0 +1,352 @@
+
+fx_4skill_remove1.png
+size: 1017,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fx_circle_line_00
+  rotate: true
+  xy: 955, 462
+  size: 69, 60
+  orig: 536, 496
+  offset: 241, 214
+  index: -1
+images/fx_circle_line_16
+  rotate: false
+  xy: 492, 34
+  size: 461, 487
+  orig: 536, 496
+  offset: 35, 2
+  index: -1
+images/fx_circle_line_17
+  rotate: false
+  xy: 494, 533
+  size: 476, 482
+  orig: 536, 496
+  offset: 35, 4
+  index: -1
+images/fx_circle_line_22
+  rotate: false
+  xy: 2, 31
+  size: 488, 490
+  orig: 536, 496
+  offset: 31, 4
+  index: -1
+images/fx_circle_line_23
+  rotate: false
+  xy: 2, 523
+  size: 490, 492
+  orig: 536, 496
+  offset: 29, 2
+  index: -1
+images/fx_liziboom_00
+  rotate: false
+  xy: 2, 14
+  size: 16, 15
+  orig: 266, 241
+  offset: 116, 113
+  index: -1
+images/fx_liziboom_01
+  rotate: false
+  xy: 955, 406
+  size: 53, 54
+  orig: 266, 241
+  offset: 98, 93
+  index: -1
+
+fx_4skill_remove12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fx_circle_line_01
+  rotate: false
+  xy: 816, 49
+  size: 90, 89
+  orig: 536, 496
+  offset: 232, 200
+  index: -1
+images/fx_circle_line_02
+  rotate: false
+  xy: 604, 22
+  size: 113, 116
+  orig: 536, 496
+  offset: 220, 187
+  index: -1
+images/fx_circle_line_03
+  rotate: false
+  xy: 469, 2
+  size: 133, 136
+  orig: 536, 496
+  offset: 206, 176
+  index: -1
+images/fx_circle_line_18
+  rotate: true
+  xy: 2, 65
+  size: 481, 465
+  orig: 536, 496
+  offset: 38, 13
+  index: -1
+images/fx_circle_line_19
+  rotate: false
+  xy: 482, 584
+  size: 474, 438
+  orig: 536, 496
+  offset: 45, 25
+  index: -1
+images/fx_circle_line_20
+  rotate: false
+  xy: 482, 140
+  size: 463, 442
+  orig: 536, 496
+  offset: 55, 10
+  index: -1
+images/fx_circle_line_21
+  rotate: false
+  xy: 2, 548
+  size: 478, 474
+  orig: 536, 496
+  offset: 41, 3
+  index: -1
+images/fx_liziboom_02
+  rotate: false
+  xy: 719, 40
+  size: 95, 98
+  orig: 266, 241
+  offset: 78, 71
+  index: -1
+
+fx_4skill_remove13.png
+size: 1023,1023
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fx_circle_line_05
+  rotate: false
+  xy: 833, 32
+  size: 182, 183
+  orig: 536, 496
+  offset: 182, 156
+  index: -1
+images/fx_circle_line_12
+  rotate: false
+  xy: 457, 679
+  size: 353, 342
+  orig: 536, 496
+  offset: 96, 91
+  index: -1
+images/fx_circle_line_13
+  rotate: false
+  xy: 434, 171
+  size: 397, 393
+  orig: 536, 496
+  offset: 77, 57
+  index: -1
+images/fx_circle_line_14
+  rotate: false
+  xy: 2, 138
+  size: 430, 426
+  orig: 536, 496
+  offset: 59, 31
+  index: -1
+images/fx_circle_line_15
+  rotate: false
+  xy: 2, 566
+  size: 453, 455
+  orig: 536, 496
+  offset: 46, 17
+  index: -1
+images/fx_circle_line_27
+  rotate: false
+  xy: 833, 217
+  size: 184, 184
+  orig: 536, 496
+  offset: 183, 152
+  index: -1
+images/fx_circle_line_28
+  rotate: true
+  xy: 833, 403
+  size: 188, 187
+  orig: 536, 496
+  offset: 181, 151
+  index: -1
+images/fx_liziboom_06
+  rotate: true
+  xy: 812, 811
+  size: 210, 209
+  orig: 266, 241
+  offset: 24, 16
+  index: -1
+images/fx_liziboom_11
+  rotate: false
+  xy: 812, 593
+  size: 198, 216
+  orig: 266, 241
+  offset: 31, 8
+  index: -1
+images/fx_liziboom_12
+  rotate: true
+  xy: 434, 17
+  size: 152, 215
+  orig: 266, 241
+  offset: 31, 10
+  index: -1
+images/fx_liziboom_13
+  rotate: false
+  xy: 651, 23
+  size: 150, 146
+  orig: 266, 241
+  offset: 32, 38
+  index: -1
+
+fx_4skill_remove14.png
+size: 1015,1015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fx_circle_line_04
+  rotate: false
+  xy: 562, 436
+  size: 146, 149
+  orig: 536, 496
+  offset: 194, 170
+  index: -1
+images/fx_circle_line_06
+  rotate: false
+  xy: 562, 587
+  size: 211, 211
+  orig: 536, 496
+  offset: 169, 141
+  index: -1
+images/fx_circle_line_07
+  rotate: false
+  xy: 321, 430
+  size: 239, 240
+  orig: 536, 496
+  offset: 157, 125
+  index: -1
+images/fx_circle_line_08
+  rotate: true
+  xy: 291, 75
+  size: 270, 267
+  orig: 536, 496
+  offset: 140, 111
+  index: -1
+images/fx_circle_line_09
+  rotate: true
+  xy: 2, 51
+  size: 294, 287
+  orig: 536, 496
+  offset: 129, 98
+  index: -1
+images/fx_circle_line_10
+  rotate: true
+  xy: 2, 347
+  size: 323, 317
+  orig: 536, 496
+  offset: 113, 82
+  index: -1
+images/fx_circle_line_11
+  rotate: false
+  xy: 2, 672
+  size: 337, 341
+  orig: 536, 496
+  offset: 102, 80
+  index: -1
+images/fx_circle_line_29
+  rotate: false
+  xy: 782, 251
+  size: 190, 190
+  orig: 536, 496
+  offset: 180, 149
+  index: -1
+images/fx_circle_line_30
+  rotate: false
+  xy: 775, 600
+  size: 192, 192
+  orig: 536, 496
+  offset: 179, 148
+  index: -1
+images/fx_circle_line_31
+  rotate: true
+  xy: 560, 2
+  size: 196, 195
+  orig: 536, 496
+  offset: 177, 147
+  index: -1
+images/fx_liziboom_03
+  rotate: false
+  xy: 710, 443
+  size: 139, 142
+  orig: 266, 241
+  offset: 57, 50
+  index: -1
+images/fx_liziboom_05
+  rotate: true
+  xy: 757, 2
+  size: 196, 195
+  orig: 266, 241
+  offset: 30, 23
+  index: -1
+images/fx_liziboom_07
+  rotate: true
+  xy: 341, 791
+  size: 222, 219
+  orig: 266, 241
+  offset: 18, 11
+  index: -1
+images/fx_liziboom_08
+  rotate: true
+  xy: 560, 200
+  size: 228, 220
+  orig: 266, 241
+  offset: 15, 12
+  index: -1
+images/fx_liziboom_09
+  rotate: true
+  xy: 782, 794
+  size: 219, 225
+  orig: 266, 241
+  offset: 13, 9
+  index: -1
+images/fx_liziboom_10
+  rotate: true
+  xy: 562, 800
+  size: 213, 218
+  orig: 266, 241
+  offset: 16, 8
+  index: -1
+
+fx_4skill_remove15.png
+size: 366,366
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fx_circle_line_24
+  rotate: false
+  xy: 186, 188
+  size: 176, 176
+  orig: 536, 496
+  offset: 187, 156
+  index: -1
+images/fx_circle_line_25
+  rotate: false
+  xy: 2, 2
+  size: 178, 178
+  orig: 536, 496
+  offset: 186, 155
+  index: -1
+images/fx_circle_line_26
+  rotate: false
+  xy: 2, 182
+  size: 182, 182
+  orig: 536, 496
+  offset: 184, 153
+  index: -1
+images/fx_liziboom_04
+  rotate: true
+  xy: 186, 13
+  size: 173, 174
+  orig: 266, 241
+  offset: 41, 34
+  index: -1

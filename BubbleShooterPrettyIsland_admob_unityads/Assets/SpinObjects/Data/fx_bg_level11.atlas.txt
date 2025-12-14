@@ -1,0 +1,76 @@
+
+fx_bg_level11.png
+size: 417,417
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 183, 171
+  size: 52, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+shu1
+  rotate: true
+  xy: 272, 255
+  size: 82, 125
+  orig: 83, 125
+  offset: 1, 0
+  index: -1
+shu2
+  rotate: false
+  xy: 104, 19
+  size: 77, 166
+  orig: 77, 166
+  offset: 0, 0
+  index: -1
+shu3
+  rotate: true
+  xy: 272, 339
+  size: 76, 139
+  orig: 76, 139
+  offset: 0, 0
+  index: -1
+shu4
+  rotate: true
+  xy: 289, 49
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+shu5
+  rotate: true
+  xy: 272, 159
+  size: 94, 123
+  orig: 94, 123
+  offset: 0, 0
+  index: -1
+shu6
+  rotate: false
+  xy: 2, 11
+  size: 100, 174
+  orig: 100, 174
+  offset: 0, 0
+  index: -1
+shu7
+  rotate: false
+  xy: 183, 2
+  size: 104, 155
+  orig: 104, 155
+  offset: 0, 0
+  index: -1
+shu8
+  rotate: false
+  xy: 131, 208
+  size: 139, 207
+  orig: 140, 207
+  offset: 1, 0
+  index: -1
+shu9
+  rotate: false
+  xy: 2, 187
+  size: 127, 228
+  orig: 127, 228
+  offset: 0, 0
+  index: -1

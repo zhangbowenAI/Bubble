@@ -1,0 +1,97 @@
+
+fx_bg_level1.png
+size: 212,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light
+  rotate: false
+  xy: 111, 43
+  size: 52, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+tree_01
+  rotate: true
+  xy: 183, 163
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+tree_02
+  rotate: true
+  xy: 58, 7
+  size: 35, 43
+  orig: 35, 43
+  offset: 0, 0
+  index: -1
+tree_03
+  rotate: false
+  xy: 2, 122
+  size: 103, 88
+  orig: 103, 88
+  offset: 0, 0
+  index: -1
+tree_04
+  rotate: false
+  xy: 2, 62
+  size: 75, 58
+  orig: 76, 59
+  offset: 0, 1
+  index: -1
+tree_05
+  rotate: true
+  xy: 107, 123
+  size: 32, 73
+  orig: 32, 73
+  offset: 0, 0
+  index: -1
+tree_06
+  rotate: true
+  xy: 190, 130
+  size: 31, 20
+  orig: 32, 21
+  offset: 1, 1
+  index: -1
+tree_07
+  rotate: true
+  xy: 2, 2
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+tree_08
+  rotate: false
+  xy: 111, 80
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+tree_09
+  rotate: true
+  xy: 103, 17
+  size: 24, 53
+  orig: 24, 53
+  offset: 0, 0
+  index: -1
+tree_10
+  rotate: true
+  xy: 166, 83
+  size: 38, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+tree_11
+  rotate: false
+  xy: 107, 157
+  size: 74, 53
+  orig: 74, 53
+  offset: 0, 0
+  index: -1
+tree_12
+  rotate: false
+  xy: 79, 44
+  size: 30, 76
+  orig: 30, 76
+  offset: 0, 0
+  index: -1

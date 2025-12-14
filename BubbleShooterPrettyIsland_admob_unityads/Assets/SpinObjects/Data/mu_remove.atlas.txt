@@ -1,0 +1,132 @@
+
+mu_remove.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+res/fx_muqiu_light_00
+  rotate: false
+  xy: 154, 260
+  size: 40, 33
+  orig: 74, 289
+  offset: 29, 0
+  index: -1
+res/fx_muqiu_light_01
+  rotate: false
+  xy: 449, 446
+  size: 44, 64
+  orig: 74, 289
+  offset: 30, 0
+  index: -1
+res/fx_muqiu_light_02
+  rotate: true
+  xy: 426, 376
+  size: 64, 84
+  orig: 74, 289
+  offset: 10, 0
+  index: -1
+res/fx_muqiu_light_03
+  rotate: false
+  xy: 359, 113
+  size: 71, 115
+  orig: 74, 289
+  offset: 3, 0
+  index: -1
+res/fx_muqiu_light_04
+  rotate: false
+  xy: 216, 87
+  size: 73, 141
+  orig: 74, 289
+  offset: 1, 0
+  index: -1
+res/fx_muqiu_light_05
+  rotate: false
+  xy: 73, 73
+  size: 74, 172
+  orig: 74, 289
+  offset: 0, 0
+  index: -1
+res/fx_muqiu_light_06
+  rotate: true
+  xy: 230, 366
+  size: 74, 194
+  orig: 74, 289
+  offset: 0, 0
+  index: -1
+res/fx_muqiu_light_07
+  rotate: false
+  xy: 154, 295
+  size: 74, 215
+  orig: 74, 289
+  offset: 0, 0
+  index: -1
+res/fx_muqiu_light_08
+  rotate: false
+  xy: 78, 266
+  size: 74, 244
+  orig: 74, 289
+  offset: 0, 0
+  index: -1
+res/fx_muqiu_light_09
+  rotate: false
+  xy: 2, 247
+  size: 74, 263
+  orig: 74, 289
+  offset: 0, 12
+  index: -1
+res/fx_muqiu_light_10
+  rotate: false
+  xy: 2, 2
+  size: 69, 243
+  orig: 74, 289
+  offset: 0, 32
+  index: -1
+res/fx_muqiu_light_11
+  rotate: true
+  xy: 230, 442
+  size: 68, 217
+  orig: 74, 289
+  offset: 0, 59
+  index: -1
+res/fx_muqiu_light_12
+  rotate: true
+  xy: 230, 298
+  size: 66, 181
+  orig: 74, 289
+  offset: 2, 95
+  index: -1
+res/fx_muqiu_light_13
+  rotate: true
+  xy: 230, 230
+  size: 66, 164
+  orig: 74, 289
+  offset: 2, 113
+  index: -1
+res/fx_muqiu_light_14
+  rotate: false
+  xy: 149, 83
+  size: 65, 145
+  orig: 74, 289
+  offset: 3, 141
+  index: -1
+res/fx_muqiu_light_15
+  rotate: false
+  xy: 291, 104
+  size: 66, 124
+  orig: 74, 289
+  offset: 3, 165
+  index: -1
+res/fx_muqiu_light_16
+  rotate: true
+  xy: 73, 13
+  size: 58, 94
+  orig: 74, 289
+  offset: 11, 195
+  index: -1
+res/fx_muqiu_light_17
+  rotate: false
+  xy: 169, 22
+  size: 44, 59
+  orig: 74, 289
+  offset: 21, 230
+  index: -1

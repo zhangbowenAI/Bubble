@@ -1,0 +1,55 @@
+
+fx_zhadanqiu_Static.png
+size: 141,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gaoguang02
+  rotate: true
+  xy: 133, 131
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+gapguang01
+  rotate: false
+  xy: 98, 59
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+light01
+  rotate: false
+  xy: 2, 9
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+light02
+  rotate: false
+  xy: 68, 76
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 66, 43
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+zhongxin
+  rotate: false
+  xy: 66, 18
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+zhuti
+  rotate: false
+  xy: 2, 75
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

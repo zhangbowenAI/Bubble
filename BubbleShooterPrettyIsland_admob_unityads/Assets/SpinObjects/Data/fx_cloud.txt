@@ -1,0 +1,53 @@
+{
+"skeleton": { "hash": "SNBICsfxJ3A693b7LytqL1NbIlQ", "spine": "3.4.02", "width": 0, "height": 0 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fx", "parent": "root" }
+],
+"slots": [
+	{ "name": "fx", "bone": "fx" }
+],
+"skins": {
+	"default": {
+		"fx": {
+			"images/fx_cloud_01": { "width": 129, "height": 111 },
+			"images/fx_cloud_02": { "width": 129, "height": 111 },
+			"images/fx_cloud_03": { "width": 129, "height": 111 },
+			"images/fx_cloud_04": { "width": 129, "height": 111 },
+			"images/fx_cloud_05": { "width": 129, "height": 111 },
+			"images/fx_cloud_06": { "width": 129, "height": 111 },
+			"images/fx_cloud_07": { "width": 129, "height": 111 },
+			"images/fx_cloud_08": { "width": 129, "height": 111 },
+			"images/fx_cloud_09": { "width": 129, "height": 111 },
+			"images/fx_cloud_10": { "width": 129, "height": 111 },
+			"images/fx_cloud_11": { "width": 129, "height": 111 },
+			"images/fx_cloud_12": { "width": 129, "height": 111 },
+			"images/fx_cloud_13": { "width": 129, "height": 111 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"fx": {
+				"attachment": [
+					{ "time": 0, "name": "images/fx_cloud_01" },
+					{ "time": 0.0666, "name": "images/fx_cloud_02" },
+					{ "time": 0.1333, "name": "images/fx_cloud_03" },
+					{ "time": 0.2, "name": "images/fx_cloud_04" },
+					{ "time": 0.2666, "name": "images/fx_cloud_05" },
+					{ "time": 0.3333, "name": "images/fx_cloud_06" },
+					{ "time": 0.4, "name": "images/fx_cloud_07" },
+					{ "time": 0.4666, "name": "images/fx_cloud_08" },
+					{ "time": 0.5333, "name": "images/fx_cloud_09" },
+					{ "time": 0.6, "name": "images/fx_cloud_10" },
+					{ "time": 0.6666, "name": "images/fx_cloud_11" },
+					{ "time": 0.7333, "name": "images/fx_cloud_12" },
+					{ "time": 0.8, "name": "images/fx_cloud_13" },
+					{ "time": 0.8666, "name": null }
+				]
+			}
+		}
+	}
+}
+}

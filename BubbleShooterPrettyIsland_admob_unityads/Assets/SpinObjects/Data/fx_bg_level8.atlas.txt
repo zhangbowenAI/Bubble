@@ -1,0 +1,146 @@
+
+fx_bg_level8.png
+size: 433,433
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_vortex/fx_vortex_00
+  rotate: false
+  xy: 2, 304
+  size: 94, 127
+  orig: 94, 127
+  offset: 0, 0
+  index: -1
+fx_vortex/fx_vortex_01
+  rotate: false
+  xy: 2, 175
+  size: 94, 127
+  orig: 94, 127
+  offset: 0, 0
+  index: -1
+fx_vortex/fx_vortex_02
+  rotate: false
+  xy: 2, 46
+  size: 94, 127
+  orig: 94, 127
+  offset: 0, 0
+  index: -1
+fx_vortex/fx_vortex_03
+  rotate: true
+  xy: 98, 337
+  size: 94, 127
+  orig: 94, 127
+  offset: 0, 0
+  index: -1
+fx_vortex/fx_vortex_04
+  rotate: true
+  xy: 227, 337
+  size: 94, 127
+  orig: 94, 127
+  offset: 0, 0
+  index: -1
+fx_vortex/fx_vortex_05
+  rotate: true
+  xy: 98, 241
+  size: 94, 127
+  orig: 94, 127
+  offset: 0, 0
+  index: -1
+fx_vortex/fx_vortex_06
+  rotate: true
+  xy: 227, 241
+  size: 94, 127
+  orig: 94, 127
+  offset: 0, 0
+  index: -1
+fx_vortex/fx_vortex_07
+  rotate: false
+  xy: 98, 112
+  size: 94, 127
+  orig: 94, 127
+  offset: 0, 0
+  index: -1
+fx_vortex/fx_vortex_08
+  rotate: true
+  xy: 128, 16
+  size: 94, 127
+  orig: 94, 127
+  offset: 0, 0
+  index: -1
+fx_vortex/fx_vortex_09
+  rotate: false
+  xy: 194, 112
+  size: 94, 127
+  orig: 94, 127
+  offset: 0, 0
+  index: -1
+fx_vortex/fx_vortex_10
+  rotate: true
+  xy: 257, 16
+  size: 94, 127
+  orig: 94, 127
+  offset: 0, 0
+  index: -1
+fx_vortex/fx_vortex_11
+  rotate: false
+  xy: 290, 112
+  size: 94, 127
+  orig: 94, 127
+  offset: 0, 0
+  index: -1
+guangquan
+  rotate: false
+  xy: 356, 366
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+lazhu1
+  rotate: true
+  xy: 2, 15
+  size: 29, 70
+  orig: 29, 70
+  offset: 0, 0
+  index: -1
+lazhu2
+  rotate: false
+  xy: 399, 250
+  size: 24, 67
+  orig: 24, 67
+  offset: 0, 0
+  index: -1
+lazhu3
+  rotate: true
+  xy: 356, 271
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+lazhu4
+  rotate: true
+  xy: 356, 332
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+lazhu5
+  rotate: false
+  xy: 413, 319
+  size: 18, 45
+  orig: 18, 45
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 74, 9
+  size: 52, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+yingguang
+  rotate: false
+  xy: 356, 290
+  size: 41, 40
+  orig: 42, 42
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,74 @@
+{
+"skeleton": { "hash": "LWDu5q/D7G1FOxkQcvBm5/YuFF4", "spine": "3.4.02", "width": 175, "height": 163 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "circle01", "parent": "root" }
+],
+"slots": [
+	{ "name": "fx_dongwu_xiao", "bone": "root", "attachment": "res/Animal bubble_small_09" },
+	{ "name": "res/tex_circle", "bone": "circle01" }
+],
+"skins": {
+	"default": {
+		"fx_dongwu_xiao": {
+			"res/Animal bubble_small_01": { "width": 175, "height": 163 },
+			"res/Animal bubble_small_02": { "width": 175, "height": 163 },
+			"res/Animal bubble_small_03": { "width": 175, "height": 163 },
+			"res/Animal bubble_small_04": { "width": 175, "height": 163 },
+			"res/Animal bubble_small_05": { "width": 175, "height": 163 },
+			"res/Animal bubble_small_06": { "width": 175, "height": 163 },
+			"res/Animal bubble_small_07": { "width": 175, "height": 163 },
+			"res/Animal bubble_small_08": { "width": 175, "height": 163 },
+			"res/Animal bubble_small_09": { "width": 175, "height": 163 }
+		},
+		"res/tex_circle": {
+			"res/tex_circle": { "width": 100, "height": 100 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"fx_dongwu_xiao": {
+				"attachment": [
+					{ "time": 0, "name": "res/Animal bubble_small_01" },
+					{ "time": 0.0666, "name": "res/Animal bubble_small_02" },
+					{ "time": 0.1333, "name": "res/Animal bubble_small_03" },
+					{ "time": 0.2, "name": "res/Animal bubble_small_04" },
+					{ "time": 0.2666, "name": "res/Animal bubble_small_05" },
+					{ "time": 0.3333, "name": "res/Animal bubble_small_06" },
+					{ "time": 0.4, "name": "res/Animal bubble_small_07" },
+					{ "time": 0.4666, "name": "res/Animal bubble_small_08" },
+					{ "time": 0.5333, "name": "res/Animal bubble_small_09" },
+					{ "time": 0.6, "name": null }
+				]
+			},
+			"res/tex_circle": {
+				"color": [
+					{ "time": 0, "color": "ffffff85" },
+					{ "time": 0.2666, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.8333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "res/tex_circle" }
+				]
+			}
+		},
+		"bones": {
+			"circle01": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.8333, "angle": 180 }
+				],
+				"scale": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.2666, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.5, "x": 1, "y": 1 },
+					{ "time": 0.8333, "x": 1.5, "y": 1.5 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,105 @@
+{
+"skeleton": { "hash": "M6TjQUjJga5SlrhyZygs3w4oCyg", "spine": "3.4.02", "width": 0, "height": 0 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fx", "parent": "root", "scaleX": 2, "scaleY": 2 },
+	{ "name": "fx2", "parent": "root", "scaleX": 2, "scaleY": 2 }
+],
+"slots": [
+	{ "name": "images/pingmu", "bone": "fx", "blend": "additive" },
+	{ "name": "fx_siji_light2", "bone": "fx2" }
+],
+"skins": {
+	"default": {
+		"fx_siji_light2": {
+			"images/fx_4ji_light2_00": { "width": 360, "height": 636 },
+			"images/fx_4ji_light2_01": { "width": 360, "height": 636 },
+			"images/fx_4ji_light2_02": { "width": 360, "height": 636 },
+			"images/fx_4ji_light2_03": { "width": 360, "height": 636 },
+			"images/fx_4ji_light2_04": { "width": 360, "height": 636 },
+			"images/fx_4ji_light2_05": { "width": 360, "height": 636 },
+			"images/fx_4ji_light2_06": { "width": 360, "height": 636 },
+			"images/fx_4ji_light2_07": { "width": 360, "height": 636 },
+			"images/fx_4ji_light2_08": { "width": 360, "height": 636 },
+			"images/fx_4ji_light2_09": { "width": 360, "height": 636 },
+			"images/fx_4ji_light2_10": { "width": 360, "height": 636 },
+			"images/fx_4ji_light2_11": { "width": 360, "height": 636 },
+			"images/fx_4ji_light2_12": { "width": 360, "height": 636 },
+			"images/fx_4ji_light2_13": { "width": 360, "height": 636 },
+			"images/fx_4ji_light2_14": { "width": 360, "height": 636 },
+			"images/fx_4ji_light2_15": { "width": 360, "height": 636 },
+			"images/fx_4ji_light2_16": { "width": 360, "height": 636 },
+			"images/fx_4ji_light2_17": { "width": 360, "height": 636 }
+		},
+		"images/pingmu": {
+			"images/fx_4ji_light_00": { "width": 360, "height": 636 },
+			"images/fx_4ji_light_01": { "width": 360, "height": 636 },
+			"images/fx_4ji_light_02": { "width": 360, "height": 636 },
+			"images/fx_4ji_light_03": { "width": 360, "height": 636 },
+			"images/fx_4ji_light_04": { "width": 360, "height": 636 },
+			"images/fx_4ji_light_05": { "width": 360, "height": 636 },
+			"images/fx_4ji_light_06": { "width": 360, "height": 636 },
+			"images/fx_4ji_light_07": { "width": 360, "height": 636 },
+			"images/fx_4ji_light_08": { "width": 360, "height": 636 },
+			"images/fx_4ji_light_09": { "width": 360, "height": 636 },
+			"images/fx_4ji_light_10": { "width": 360, "height": 636 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"fx_siji_light2": {
+				"color": [
+					{ "time": 0, "color": "ffffffc7" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "images/fx_4ji_light2_00" },
+					{ "time": 0.0666, "name": "images/fx_4ji_light2_01" },
+					{ "time": 0.1333, "name": "images/fx_4ji_light2_02" },
+					{ "time": 0.2, "name": "images/fx_4ji_light2_03" },
+					{ "time": 0.2666, "name": "images/fx_4ji_light2_04" },
+					{ "time": 0.3333, "name": "images/fx_4ji_light2_05" },
+					{ "time": 0.4, "name": "images/fx_4ji_light2_06" },
+					{ "time": 0.4666, "name": "images/fx_4ji_light2_07" },
+					{ "time": 0.5333, "name": "images/fx_4ji_light2_08" },
+					{ "time": 0.6, "name": "images/fx_4ji_light2_09" },
+					{ "time": 0.6666, "name": "images/fx_4ji_light2_10" },
+					{ "time": 0.7333, "name": "images/fx_4ji_light2_11" },
+					{ "time": 0.8, "name": "images/fx_4ji_light2_12" },
+					{ "time": 0.8666, "name": "images/fx_4ji_light2_13" },
+					{ "time": 0.9333, "name": "images/fx_4ji_light2_14" },
+					{ "time": 1, "name": "images/fx_4ji_light2_15" },
+					{ "time": 1.0666, "name": "images/fx_4ji_light2_16" },
+					{ "time": 1.1333, "name": "images/fx_4ji_light2_17" },
+					{ "time": 1.2, "name": null }
+				]
+			},
+			"images/pingmu": {
+				"attachment": [
+					{ "time": 0, "name": "images/fx_4ji_light_00" },
+					{ "time": 0.0666, "name": "images/fx_4ji_light_01" },
+					{ "time": 0.1333, "name": "images/fx_4ji_light_02" },
+					{ "time": 0.2, "name": "images/fx_4ji_light_03" },
+					{ "time": 0.2666, "name": "images/fx_4ji_light_04" },
+					{ "time": 0.3333, "name": "images/fx_4ji_light_05" },
+					{ "time": 0.4, "name": "images/fx_4ji_light_06" },
+					{ "time": 0.4666, "name": "images/fx_4ji_light_07" },
+					{ "time": 0.5333, "name": "images/fx_4ji_light_08" },
+					{ "time": 0.6, "name": "images/fx_4ji_light_09" },
+					{ "time": 0.6666, "name": "images/fx_4ji_light_10" },
+					{ "time": 0.7333, "name": null }
+				]
+			}
+		},
+		"drawOrder": [
+			{
+				"time": 0,
+				"offsets": [
+					{ "slot": "images/pingmu", "offset": 1 }
+				]
+			}
+		]
+	}
+}
+}

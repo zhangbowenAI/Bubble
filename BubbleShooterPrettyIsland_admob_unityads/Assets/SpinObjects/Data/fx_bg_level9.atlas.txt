@@ -1,0 +1,55 @@
+
+fx_bg_level9.png
+size: 478,478
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangquan
+  rotate: false
+  xy: 391, 411
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 2, 310
+  size: 269, 166
+  orig: 269, 167
+  offset: 0, 1
+  index: -1
+hua2
+  rotate: true
+  xy: 119, 36
+  size: 272, 152
+  orig: 272, 152
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 391, 374
+  size: 52, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+light1
+  rotate: true
+  xy: 273, 51
+  size: 116, 201
+  orig: 118, 203
+  offset: 1, 1
+  index: -1
+light2
+  rotate: false
+  xy: 273, 169
+  size: 116, 307
+  orig: 116, 311
+  offset: 0, 2
+  index: -1
+light3
+  rotate: false
+  xy: 2, 2
+  size: 115, 306
+  orig: 115, 310
+  offset: 0, 2
+  index: -1

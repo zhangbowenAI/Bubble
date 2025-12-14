@@ -1,0 +1,92 @@
+{
+"skeleton": { "hash": "wyFiVCox27YTvxdL7HErgEyiiuY", "spine": "3.4.02", "width": 269, "height": 249 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fx_ball_tieci", "parent": "root" },
+	{ "name": "fx_tieci_boom", "parent": "root" },
+	{ "name": "fx_tieci_ight", "parent": "root" }
+],
+"slots": [
+	{ "name": "fx_ball_tieci", "bone": "fx_ball_tieci", "attachment": "res/fx_ball_tieci" },
+	{ "name": "fx_tieci_boom", "bone": "fx_tieci_boom", "attachment": "res/fx_tieci_boom_13" },
+	{ "name": "fx_tieci_ight", "bone": "fx_tieci_ight", "attachment": "res/fx_tieci_light_01" }
+],
+"skins": {
+	"default": {
+		"fx_ball_tieci": {
+			"res/fx_ball_tieci": { "width": 64, "height": 64 }
+		},
+		"fx_tieci_boom": {
+			"res/fx_tieci_boom_02": { "width": 151, "height": 169 },
+			"res/fx_tieci_boom_03": { "width": 151, "height": 169 },
+			"res/fx_tieci_boom_04": { "width": 151, "height": 169 },
+			"res/fx_tieci_boom_05": { "width": 151, "height": 169 },
+			"res/fx_tieci_boom_06": { "width": 151, "height": 169 },
+			"res/fx_tieci_boom_07": { "width": 151, "height": 169 },
+			"res/fx_tieci_boom_08": { "width": 151, "height": 169 },
+			"res/fx_tieci_boom_09": { "width": 151, "height": 169 },
+			"res/fx_tieci_boom_10": { "width": 151, "height": 169 },
+			"res/fx_tieci_boom_11": { "width": 151, "height": 169 },
+			"res/fx_tieci_boom_12": { "width": 151, "height": 169 },
+			"res/fx_tieci_boom_13": { "width": 151, "height": 169 }
+		},
+		"fx_tieci_ight": {
+			"res/fx_tieci_light_00": { "width": 269, "height": 249 },
+			"res/fx_tieci_light_01": { "width": 269, "height": 249 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"fx_ball_tieci": {
+				"color": [
+					{ "time": 0.0666, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "res/fx_ball_tieci" }
+				]
+			},
+			"fx_tieci_boom": {
+				"attachment": [
+					{ "time": 0.1333, "name": "res/fx_tieci_boom_02" },
+					{ "time": 0.2, "name": "res/fx_tieci_boom_03" },
+					{ "time": 0.2666, "name": "res/fx_tieci_boom_04" },
+					{ "time": 0.3333, "name": "res/fx_tieci_boom_05" },
+					{ "time": 0.4, "name": "res/fx_tieci_boom_06" },
+					{ "time": 0.4666, "name": "res/fx_tieci_boom_07" },
+					{ "time": 0.5333, "name": "res/fx_tieci_boom_08" },
+					{ "time": 0.6, "name": "res/fx_tieci_boom_09" },
+					{ "time": 0.6666, "name": "res/fx_tieci_boom_10" },
+					{ "time": 0.7333, "name": "res/fx_tieci_boom_11" },
+					{ "time": 0.8, "name": "res/fx_tieci_boom_12" },
+					{ "time": 0.8666, "name": "res/fx_tieci_boom_13" },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"fx_tieci_ight": {
+				"attachment": [
+					{ "time": 0, "name": "res/fx_tieci_light_00" },
+					{ "time": 0.0666, "name": "res/fx_tieci_light_01" },
+					{ "time": 0.1333, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"fx_tieci_ight": {
+				"translate": [
+					{ "time": 0, "x": 3.91, "y": -12.72 }
+				]
+			},
+			"fx_tieci_boom": {
+				"translate": [
+					{ "time": 0.1333, "x": 2.93, "y": -20.55 }
+				]
+			}
+		},
+		"drawOrder": [
+			{ "time": 0 }
+		]
+	}
+}
+}

@@ -1,0 +1,30 @@
+{
+"skeleton": { "hash": "RtqQQWrsqsFJYOHgJMDZYNym2Q8", "spine": "3.4.02", "width": 2160, "height": 3810 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fx_zi_di", "parent": "root" }
+],
+"slots": [
+	{ "name": "fx_zi_di", "bone": "fx_zi_di", "attachment": "res/fx_zi_di" }
+],
+"skins": {
+	"default": {
+		"fx_zi_di": {
+			"res/fx_zi_di": { "scaleX": 30, "scaleY": 30, "width": 72, "height": 127 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"fx_zi_di": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.6666, "color": "ffffffff" },
+					{ "time": 2.6666, "color": "ffffff00" }
+				]
+			}
+		}
+	}
+}
+}

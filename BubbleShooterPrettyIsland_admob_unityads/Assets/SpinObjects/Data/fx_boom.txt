@@ -1,0 +1,46 @@
+{
+"skeleton": { "hash": "Ord2p7maX77ScbamsquMD8BJZu0", "spine": "3.4.02", "width": 720, "height": 1280 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fx", "parent": "root" }
+],
+"slots": [
+	{ "name": "images/bj_00", "bone": "root" },
+	{ "name": "images/boom01", "bone": "fx", "attachment": "images/boom01" }
+],
+"skins": {
+	"default": {
+		"images/boom01": {
+			"images/boom01": { "x": -4.49, "y": 9.99, "width": 288, "height": 244 },
+			"images/boom02": { "width": 288, "height": 244 },
+			"images/boom03": { "width": 288, "height": 244 },
+			"images/boom04": { "width": 288, "height": 244 },
+			"images/boom05": { "width": 288, "height": 244 },
+			"images/boom06": { "width": 288, "height": 244 },
+			"images/boom07": { "width": 288, "height": 244 },
+			"images/boom08": { "width": 288, "height": 244 },
+			"images/boom09": { "width": 288, "height": 244 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"images/boom01": {
+				"attachment": [
+					{ "time": 0, "name": "images/boom01" },
+					{ "time": 0.0666, "name": "images/boom02" },
+					{ "time": 0.1333, "name": "images/boom03" },
+					{ "time": 0.2, "name": "images/boom04" },
+					{ "time": 0.2666, "name": "images/boom05" },
+					{ "time": 0.3333, "name": "images/boom06" },
+					{ "time": 0.4, "name": "images/boom07" },
+					{ "time": 0.4666, "name": "images/boom08" },
+					{ "time": 0.5333, "name": "images/boom09" },
+					{ "time": 0.6, "name": null }
+				]
+			}
+		}
+	}
+}
+}

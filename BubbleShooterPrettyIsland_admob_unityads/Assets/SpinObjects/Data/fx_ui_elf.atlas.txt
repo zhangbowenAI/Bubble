@@ -1,0 +1,13 @@
+
+fx_ui_elf.png
+size: 260,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+res/tex_light_0018_
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+finger.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/level_icon_finger
+  rotate: false
+  xy: 2, 2
+  size: 101, 116
+  orig: 102, 116
+  offset: 0, 0
+  index: -1

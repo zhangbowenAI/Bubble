@@ -1,0 +1,54 @@
+{
+"skeleton": { "hash": "3HMrBJi5LZlHzqOMnDFuzcozwpQ", "spine": "3.4.02", "width": 720, "height": 1394.42 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fx", "parent": "root", "scaleX": 2, "scaleY": 2 }
+],
+"slots": [
+	{ "name": "images/bg", "bone": "root" },
+	{ "name": "fx", "bone": "fx", "attachment": "images/fireline001__0000_fireExplo_0001.png" }
+],
+"skins": {
+	"default": {
+		"fx": {
+			"images/fireline001__0000_fireExplo_0001.png": { "y": 31.1, "width": 358, "height": 143 },
+			"images/fireline001__0001_fireExplo_0003.png": { "y": 31.1, "width": 358, "height": 143 },
+			"images/fireline001__0002_fireExplo_0005.png": { "y": 31.1, "width": 358, "height": 143 },
+			"images/fireline001__0003_fireExplo_0007.png": { "y": 31.1, "width": 358, "height": 143 },
+			"images/fireline001__0004_fireExplo_0009.png": { "y": 31.1, "width": 358, "height": 143 },
+			"images/fireline001__0005_fireExplo_0011.png": { "y": 31.1, "width": 358, "height": 143 },
+			"images/fireline001__0006_fireExplo_0013.png": { "y": 31.1, "width": 358, "height": 143 },
+			"images/fireline001__0007_fireExplo_0015.png": { "y": 31.1, "width": 358, "height": 143 },
+			"images/fireline001__0008_fireExplo_0017.png": { "y": 31.1, "width": 358, "height": 143 },
+			"images/fireline001__0009_fireExplo_0019.png": { "y": 31.1, "width": 358, "height": 143 },
+			"images/fireline001__0010_fireExplo_0021.png": { "y": 31.1, "width": 358, "height": 143 },
+			"images/fireline001__0011_fireExplo_0023.png": { "y": 31.1, "width": 358, "height": 143 },
+			"images/fireline001__0012_fireExplo_0025.png": { "y": 31.1, "width": 358, "height": 143 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"fx": {
+				"attachment": [
+					{ "time": 0, "name": "images/fireline001__0000_fireExplo_0001.png" },
+					{ "time": 0.0666, "name": "images/fireline001__0001_fireExplo_0003.png" },
+					{ "time": 0.1333, "name": "images/fireline001__0002_fireExplo_0005.png" },
+					{ "time": 0.2, "name": "images/fireline001__0003_fireExplo_0007.png" },
+					{ "time": 0.2666, "name": "images/fireline001__0004_fireExplo_0009.png" },
+					{ "time": 0.3333, "name": "images/fireline001__0005_fireExplo_0011.png" },
+					{ "time": 0.4, "name": "images/fireline001__0006_fireExplo_0013.png" },
+					{ "time": 0.4666, "name": "images/fireline001__0007_fireExplo_0015.png" },
+					{ "time": 0.5333, "name": "images/fireline001__0008_fireExplo_0017.png" },
+					{ "time": 0.6, "name": "images/fireline001__0009_fireExplo_0019.png" },
+					{ "time": 0.6666, "name": "images/fireline001__0010_fireExplo_0021.png" },
+					{ "time": 0.7333, "name": "images/fireline001__0011_fireExplo_0023.png" },
+					{ "time": 0.8, "name": "images/fireline001__0012_fireExplo_0025.png" },
+					{ "time": 0.8666, "name": null }
+				]
+			}
+		}
+	}
+}
+}

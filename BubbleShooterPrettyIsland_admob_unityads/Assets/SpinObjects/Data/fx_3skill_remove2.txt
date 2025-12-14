@@ -1,0 +1,52 @@
+{
+"skeleton": { "hash": "fDAfF4VAvUhBGUSA+mtjPvoVzSo", "spine": "3.4.02", "width": 0, "height": 0 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fx_white_ball", "parent": "root" }
+],
+"slots": [
+	{ "name": "fx_white_ball", "bone": "fx_white_ball" }
+],
+"skins": {
+	"default": {
+		"fx_white_ball": {
+			"res/fx_white_ball_00": { "width": 66, "height": 66 },
+			"res/fx_white_ball_01": { "width": 66, "height": 66 },
+			"res/fx_white_ball_02": { "width": 66, "height": 66 },
+			"res/fx_white_ball_03": { "width": 66, "height": 66 },
+			"res/fx_white_ball_04": { "width": 66, "height": 66 },
+			"res/fx_white_ball_05": { "width": 66, "height": 66 },
+			"res/fx_white_ball_06": { "width": 66, "height": 66 },
+			"res/fx_white_ball_07": { "width": 66, "height": 66 },
+			"res/fx_white_ball_08": { "width": 66, "height": 66 },
+			"res/fx_white_ball_09": { "width": 66, "height": 66 },
+			"res/fx_white_ball_10": { "width": 66, "height": 66 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"fx_white_ball": {
+				"color": [
+					{ "time": 0.6666, "color": "ffffffff" },
+					{ "time": 1.3, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "res/fx_white_ball_00" },
+					{ "time": 0.0666, "name": "res/fx_white_ball_01" },
+					{ "time": 0.1333, "name": "res/fx_white_ball_02" },
+					{ "time": 0.2, "name": "res/fx_white_ball_03" },
+					{ "time": 0.2666, "name": "res/fx_white_ball_04" },
+					{ "time": 0.3333, "name": "res/fx_white_ball_05" },
+					{ "time": 0.4, "name": "res/fx_white_ball_06" },
+					{ "time": 0.4666, "name": "res/fx_white_ball_07" },
+					{ "time": 0.5333, "name": "res/fx_white_ball_08" },
+					{ "time": 0.6, "name": "res/fx_white_ball_09" },
+					{ "time": 0.6666, "name": "res/fx_white_ball_10" }
+				]
+			}
+		}
+	}
+}
+}

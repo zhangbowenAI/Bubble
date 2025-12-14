@@ -1,0 +1,62 @@
+
+xiaobaoxiang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02
+  rotate: false
+  xy: 2, 2
+  size: 92, 27
+  orig: 92, 35
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 31
+  size: 92, 35
+  orig: 92, 35
+  offset: 0, 0
+  index: -1
+04
+  rotate: true
+  xy: 204, 176
+  size: 92, 33
+  orig: 92, 35
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 243, 316
+  size: 92, 33
+  orig: 92, 35
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 410, 481
+  size: 92, 29
+  orig: 92, 35
+  offset: 0, 1
+  index: -1
+efx_flare1
+  rotate: false
+  xy: 2, 270
+  size: 239, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+xiaobaoxiang
+  rotate: false
+  xy: 243, 351
+  size: 165, 159
+  orig: 167, 161
+  offset: 1, 1
+  index: -1
+xiaobaoxiang_glow
+  rotate: false
+  xy: 2, 68
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

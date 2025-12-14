@@ -1,0 +1,61 @@
+{
+"skeleton": { "hash": "0KsskZDJLfiF0f0/JRGIzDqYn3Q", "spine": "3.4.02", "width": 120, "height": 150 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fx", "parent": "root" }
+],
+"slots": [
+	{ "name": "images/ball_huo", "bone": "root", "attachment": "images/ball_huo" },
+	{ "name": "images/skill_fire_01", "bone": "fx", "attachment": "images/skill_fire_01" }
+],
+"skins": {
+	"default": {
+		"images/ball_huo": {
+			"images/ball_huo": { "width": 64, "height": 64 }
+		},
+		"images/skill_fire_01": {
+			"images/skill_fire_01": { "y": 33.48, "width": 120, "height": 150 },
+			"images/skill_fire_02": { "y": 33.48, "width": 120, "height": 150 },
+			"images/skill_fire_03": { "y": 33.48, "width": 120, "height": 150 },
+			"images/skill_fire_04": { "y": 33.48, "width": 120, "height": 150 },
+			"images/skill_fire_05": { "y": 33.48, "width": 120, "height": 150 },
+			"images/skill_fire_06": { "y": 33.48, "width": 120, "height": 150 },
+			"images/skill_fire_07": { "y": 33.48, "width": 120, "height": 150 },
+			"images/skill_fire_08": { "y": 33.48, "width": 120, "height": 150 },
+			"images/skill_fire_09": { "y": 33.48, "width": 120, "height": 150 },
+			"images/skill_fire_10": { "y": 33.48, "width": 120, "height": 150 },
+			"images/skill_fire_11": { "y": 33.48, "width": 120, "height": 150 },
+			"images/skill_fire_12": { "y": 33.48, "width": 120, "height": 150 },
+			"images/skill_fire_13": { "y": 33.48, "width": 120, "height": 150 },
+			"images/skill_fire_14": { "y": 33.48, "width": 120, "height": 150 },
+			"images/skill_fire_15": { "y": 33.48, "width": 120, "height": 150 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"images/skill_fire_01": {
+				"attachment": [
+					{ "time": 0, "name": "images/skill_fire_01" },
+					{ "time": 0.0666, "name": "images/skill_fire_02" },
+					{ "time": 0.1333, "name": "images/skill_fire_03" },
+					{ "time": 0.2, "name": "images/skill_fire_04" },
+					{ "time": 0.2666, "name": "images/skill_fire_05" },
+					{ "time": 0.3333, "name": "images/skill_fire_06" },
+					{ "time": 0.4, "name": "images/skill_fire_07" },
+					{ "time": 0.4666, "name": "images/skill_fire_08" },
+					{ "time": 0.5333, "name": "images/skill_fire_09" },
+					{ "time": 0.6, "name": "images/skill_fire_10" },
+					{ "time": 0.6666, "name": "images/skill_fire_11" },
+					{ "time": 0.7333, "name": "images/skill_fire_12" },
+					{ "time": 0.8, "name": "images/skill_fire_13" },
+					{ "time": 0.8666, "name": "images/skill_fire_14" },
+					{ "time": 0.9333, "name": "images/skill_fire_15" },
+					{ "time": 1, "name": "images/skill_fire_15" }
+				]
+			}
+		}
+	}
+}
+}

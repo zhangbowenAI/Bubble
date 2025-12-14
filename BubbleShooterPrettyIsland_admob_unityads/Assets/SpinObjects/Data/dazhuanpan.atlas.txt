@@ -1,0 +1,20 @@
+
+dazhuanpan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+deng01
+  rotate: false
+  xy: 2, 2
+  size: 75, 75
+  orig: 77, 77
+  offset: 1, 1
+  index: -1
+dibu
+  rotate: false
+  xy: 2, 79
+  size: 690, 692
+  orig: 692, 694
+  offset: 1, 1
+  index: -1

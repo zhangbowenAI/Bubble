@@ -1,0 +1,27 @@
+
+mofa_bomb.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fx_kulou
+  rotate: false
+  xy: 2, 32
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+images/gutou
+  rotate: false
+  xy: 2, 74
+  size: 51, 52
+  orig: 97, 98
+  offset: 15, 9
+  index: -1
+images/light
+  rotate: false
+  xy: 2, 2
+  size: 24, 28
+  orig: 97, 98
+  offset: 17, 57
+  index: -1

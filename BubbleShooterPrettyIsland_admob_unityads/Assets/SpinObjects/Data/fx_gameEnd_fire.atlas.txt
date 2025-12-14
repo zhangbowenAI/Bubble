@@ -1,0 +1,97 @@
+
+fx_gameEnd_fire.png
+size: 703,703
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fireline001__0000_fireExplo_0001.png
+  rotate: false
+  xy: 341, 229
+  size: 348, 58
+  orig: 358, 143
+  offset: 5, 13
+  index: -1
+images/fireline001__0001_fireExplo_0003.png
+  rotate: false
+  xy: 341, 289
+  size: 351, 61
+  orig: 358, 143
+  offset: 3, 13
+  index: -1
+images/fireline001__0002_fireExplo_0005.png
+  rotate: false
+  xy: 341, 352
+  size: 357, 69
+  orig: 358, 143
+  offset: 0, 10
+  index: -1
+images/fireline001__0003_fireExplo_0007.png
+  rotate: false
+  xy: 341, 423
+  size: 358, 73
+  orig: 358, 143
+  offset: 0, 9
+  index: -1
+images/fireline001__0004_fireExplo_0009.png
+  rotate: false
+  xy: 341, 498
+  size: 358, 81
+  orig: 358, 143
+  offset: 0, 6
+  index: -1
+images/fireline001__0005_fireExplo_0011.png
+  rotate: false
+  xy: 307, 130
+  size: 358, 92
+  orig: 358, 143
+  offset: 0, 3
+  index: -1
+images/fireline001__0006_fireExplo_0013.png
+  rotate: false
+  xy: 2, 2
+  size: 358, 99
+  orig: 358, 143
+  offset: 0, 1
+  index: -1
+images/fireline001__0007_fireExplo_0015.png
+  rotate: true
+  xy: 237, 224
+  size: 358, 102
+  orig: 358, 143
+  offset: 0, 1
+  index: -1
+images/fireline001__0008_fireExplo_0017.png
+  rotate: true
+  xy: 2, 229
+  size: 353, 111
+  orig: 358, 143
+  offset: 5, 0
+  index: -1
+images/fireline001__0009_fireExplo_0019.png
+  rotate: false
+  xy: 2, 584
+  size: 344, 117
+  orig: 358, 143
+  offset: 10, 2
+  index: -1
+images/fireline001__0010_fireExplo_0021.png
+  rotate: false
+  xy: 348, 581
+  size: 329, 120
+  orig: 358, 143
+  offset: 17, 8
+  index: -1
+images/fireline001__0011_fireExplo_0023.png
+  rotate: true
+  xy: 115, 263
+  size: 319, 120
+  orig: 358, 143
+  offset: 19, 15
+  index: -1
+images/fireline001__0012_fireExplo_0025.png
+  rotate: false
+  xy: 2, 103
+  size: 303, 119
+  orig: 358, 143
+  offset: 19, 24
+  index: -1

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032742b1cc99cec27a88a64bf3dd6ce5, type: 3}
+  m_Name: "bigElf_Atlas"
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: b955b1f756844b9d9040842c25bb0aae, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 64fd2765f5e344a984a7411051ad07ad, type: 2}

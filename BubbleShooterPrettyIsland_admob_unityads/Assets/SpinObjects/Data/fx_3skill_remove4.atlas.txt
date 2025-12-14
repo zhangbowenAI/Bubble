@@ -1,0 +1,13 @@
+
+fx_3skill_remove4.png
+size: 131,131
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+res/fx_zi_di
+  rotate: false
+  xy: 2, 2
+  size: 72, 127
+  orig: 72, 127
+  offset: 0, 0
+  index: -1

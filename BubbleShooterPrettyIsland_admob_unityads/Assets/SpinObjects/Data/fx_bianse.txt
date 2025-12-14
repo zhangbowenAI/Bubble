@@ -1,0 +1,71 @@
+{
+"skeleton": { "hash": "XSf7Nmh6c7OK8Rif3ZtxCBqbTcA", "spine": "3.4.02", "width": 67.5, "height": 67.5 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fx", "parent": "root", "scaleX": 1.184, "scaleY": 1.184 }
+],
+"slots": [
+	{ "name": "images/ball_hong_b", "bone": "root" },
+	{ "name": "images/fx_hui", "bone": "fx", "attachment": "images/fx_hui" }
+],
+"skins": {
+	"default": {
+		"images/fx_hui": {
+			"images/fx_hui": { "scaleX": 0.569, "scaleY": 0.569, "width": 100, "height": 100 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"images/fx_hui": {
+				"color": [
+					{
+						"time": 0,
+						"color": "ffffff00",
+						"curve": [ 0, 0.01, 0.75, 1 ]
+					},
+					{ "time": 0.1666, "color": "ffffffff", "curve": "stepped" },
+					{
+						"time": 0.4333,
+						"color": "ffffffff",
+						"curve": [ 0, 0.01, 0.75, 1 ]
+					},
+					{ "time": 0.6, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"fx": {
+				"scale": [
+					{
+						"time": 0,
+						"x": 0.844,
+						"y": 0.844,
+						"curve": [ 0, 0.01, 0.75, 1 ]
+					},
+					{
+						"time": 0.1666,
+						"x": 1.013,
+						"y": 1.013,
+						"curve": [ 0.208, 0, 0.677, 0.57 ]
+					},
+					{
+						"time": 0.3333,
+						"x": 0.962,
+						"y": 0.962,
+						"curve": [ 0.578, 0.55, 1, 0.99 ]
+					},
+					{
+						"time": 0.4333,
+						"x": 0.97,
+						"y": 0.97,
+						"curve": [ 0.25, 0, 1, 0.99 ]
+					},
+					{ "time": 0.6, "x": 1.046, "y": 1.046 }
+				]
+			}
+		}
+	}
+}
+}

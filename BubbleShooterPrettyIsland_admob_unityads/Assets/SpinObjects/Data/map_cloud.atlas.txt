@@ -1,0 +1,13 @@
+
+map_cloud.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/cloud
+  rotate: false
+  xy: 2, 160
+  size: 484, 326
+  orig: 484, 326
+  offset: 0, 0
+  index: -1

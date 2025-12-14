@@ -1,0 +1,153 @@
+
+fx_bg_level3.png
+size: 414,414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx/fx_boguang_000
+  rotate: false
+  xy: 2, 88
+  size: 108, 105
+  orig: 113, 109
+  offset: 5, 4
+  index: -1
+fx/fx_boguang_001
+  rotate: false
+  xy: 116, 305
+  size: 110, 107
+  orig: 113, 109
+  offset: 3, 1
+  index: -1
+fx/fx_boguang_002
+  rotate: false
+  xy: 2, 304
+  size: 112, 108
+  orig: 113, 109
+  offset: 1, 0
+  index: -1
+fx/fx_boguang_003
+  rotate: false
+  xy: 2, 195
+  size: 111, 107
+  orig: 113, 109
+  offset: 2, 1
+  index: -1
+fx/fx_boguang_004
+  rotate: false
+  xy: 115, 207
+  size: 111, 95
+  orig: 113, 109
+  offset: 2, 1
+  index: -1
+fx/fx_boguang_005
+  rotate: false
+  xy: 229, 114
+  size: 109, 96
+  orig: 113, 109
+  offset: 3, 1
+  index: -1
+fx/fx_boguang_006
+  rotate: false
+  xy: 228, 212
+  size: 112, 98
+  orig: 113, 109
+  offset: 0, 1
+  index: -1
+fx/fx_boguang_007
+  rotate: false
+  xy: 115, 106
+  size: 112, 99
+  orig: 113, 109
+  offset: 0, 2
+  index: -1
+fx/fx_boguang_008
+  rotate: false
+  xy: 228, 312
+  size: 112, 100
+  orig: 113, 109
+  offset: 0, 2
+  index: -1
+fx/fx_boguang_009
+  rotate: false
+  xy: 112, 9
+  size: 106, 95
+  orig: 113, 109
+  offset: 2, 4
+  index: -1
+level3_01
+  rotate: false
+  xy: 342, 201
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+level3_02
+  rotate: false
+  xy: 340, 176
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+level3_03
+  rotate: true
+  xy: 312, 59
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+level3_04
+  rotate: true
+  xy: 2, 24
+  size: 62, 92
+  orig: 62, 92
+  offset: 0, 0
+  index: -1
+level3_05
+  rotate: false
+  xy: 342, 320
+  size: 62, 92
+  orig: 62, 92
+  offset: 0, 0
+  index: -1
+level3_06
+  rotate: false
+  xy: 342, 226
+  size: 62, 92
+  orig: 62, 92
+  offset: 0, 0
+  index: -1
+level3_07
+  rotate: true
+  xy: 268, 2
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+level3_08
+  rotate: true
+  xy: 220, 21
+  size: 83, 46
+  orig: 83, 46
+  offset: 0, 0
+  index: -1
+level3_09
+  rotate: false
+  xy: 2, 4
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+level3_10
+  rotate: false
+  xy: 268, 50
+  size: 42, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 314, 5
+  size: 52, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1

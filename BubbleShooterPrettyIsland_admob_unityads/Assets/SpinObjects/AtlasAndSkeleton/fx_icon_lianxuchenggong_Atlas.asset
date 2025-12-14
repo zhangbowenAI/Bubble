@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032742b1cc99cec27a88a64bf3dd6ce5, type: 3}
+  m_Name: "fx_icon_lianxuchenggong_Atlas"
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 39cb7d3ffc774a078fafb4eabf8b451f, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 87c185ba269b471f8f6e55018afd7aee, type: 2}

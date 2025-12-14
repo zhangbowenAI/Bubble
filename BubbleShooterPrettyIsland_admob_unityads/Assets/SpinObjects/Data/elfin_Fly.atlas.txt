@@ -1,0 +1,391 @@
+
+elfin_Fly.png
+size: 598,598
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/elfin_body
+  rotate: true
+  xy: 561, 405
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+images/elfin_ear_L
+  rotate: true
+  xy: 2, 2
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+images/elfin_ear_R
+  rotate: false
+  xy: 561, 380
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+images/elfin_eye_L1
+  rotate: false
+  xy: 561, 359
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+images/elfin_eye_L1_1
+  rotate: false
+  xy: 214, 18
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+images/elfin_eye_L1_2
+  rotate: false
+  xy: 538, 104
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+images/elfin_eye_L2
+  rotate: false
+  xy: 256, 28
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+images/elfin_eye_R1
+  rotate: false
+  xy: 26, 3
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+images/elfin_eye_R1_1
+  rotate: false
+  xy: 235, 18
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+images/elfin_eye_R1_2
+  rotate: false
+  xy: 538, 83
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+images/elfin_eye_R2
+  rotate: false
+  xy: 538, 72
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+images/elfin_glow_0000
+  rotate: false
+  xy: 2, 261
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+images/elfin_hair
+  rotate: true
+  xy: 538, 125
+  size: 70, 52
+  orig: 70, 52
+  offset: 0, 0
+  index: -1
+images/elfin_hand_L
+  rotate: false
+  xy: 559, 110
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+images/elfin_hand_R
+  rotate: false
+  xy: 47, 9
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+images/elfin_head
+  rotate: true
+  xy: 542, 216
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+images/elfin_leg_L
+  rotate: true
+  xy: 584, 374
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+images/elfin_leg_R
+  rotate: true
+  xy: 582, 359
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+images/elfin_mouth01
+  rotate: true
+  xy: 202, 425
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+images/elfin_mouth02
+  rotate: false
+  xy: 542, 198
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+images/elfin_mouth03
+  rotate: true
+  xy: 202, 399
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+images/elfin_nose
+  rotate: true
+  xy: 584, 389
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+images/fx_elfin_light
+  rotate: false
+  xy: 2, 398
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+images/fx_elfin_star/fx_elfin_star_0000
+  rotate: false
+  xy: 202, 519
+  size: 129, 77
+  orig: 129, 77
+  offset: 0, 0
+  index: -1
+images/fx_elfin_star/fx_elfin_star_0001
+  rotate: false
+  xy: 2, 182
+  size: 129, 77
+  orig: 129, 77
+  offset: 0, 0
+  index: -1
+images/fx_elfin_star/fx_elfin_star_0002
+  rotate: false
+  xy: 202, 440
+  size: 129, 77
+  orig: 129, 77
+  offset: 0, 0
+  index: -1
+images/fx_elfin_star/fx_elfin_star_0003
+  rotate: false
+  xy: 333, 519
+  size: 129, 77
+  orig: 129, 77
+  offset: 0, 0
+  index: -1
+images/fx_elfin_star/fx_elfin_star_0004
+  rotate: false
+  xy: 2, 103
+  size: 129, 77
+  orig: 129, 77
+  offset: 0, 0
+  index: -1
+images/fx_elfin_star/fx_elfin_star_0005
+  rotate: false
+  xy: 333, 440
+  size: 129, 77
+  orig: 129, 77
+  offset: 0, 0
+  index: -1
+images/fx_elfin_star/fx_elfin_star_0006
+  rotate: false
+  xy: 464, 519
+  size: 129, 77
+  orig: 129, 77
+  offset: 0, 0
+  index: -1
+images/fx_elfin_star/fx_elfin_star_0007
+  rotate: false
+  xy: 2, 24
+  size: 129, 77
+  orig: 129, 77
+  offset: 0, 0
+  index: -1
+images/fx_elfin_star/fx_elfin_star_0008
+  rotate: false
+  xy: 464, 440
+  size: 129, 77
+  orig: 129, 77
+  offset: 0, 0
+  index: -1
+images/fx_elfin_star/fx_elfin_star_0009
+  rotate: true
+  xy: 139, 267
+  size: 129, 77
+  orig: 129, 77
+  offset: 0, 0
+  index: -1
+images/fx_elfin_star/fx_elfin_star_0010
+  rotate: false
+  xy: 218, 361
+  size: 129, 77
+  orig: 129, 77
+  offset: 0, 0
+  index: -1
+images/fx_elfin_star/fx_elfin_star_0011
+  rotate: false
+  xy: 218, 282
+  size: 129, 77
+  orig: 129, 77
+  offset: 0, 0
+  index: -1
+images/fx_elfin_star/fx_elfin_star_0012
+  rotate: false
+  xy: 349, 361
+  size: 129, 77
+  orig: 129, 77
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0000
+  rotate: false
+  xy: 349, 280
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0001
+  rotate: false
+  xy: 480, 359
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0002
+  rotate: false
+  xy: 430, 278
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0003
+  rotate: false
+  xy: 511, 278
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0004
+  rotate: false
+  xy: 218, 201
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0005
+  rotate: false
+  xy: 299, 199
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0006
+  rotate: false
+  xy: 380, 197
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0007
+  rotate: false
+  xy: 461, 197
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0008
+  rotate: false
+  xy: 133, 180
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0009
+  rotate: false
+  xy: 133, 99
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0010
+  rotate: false
+  xy: 214, 120
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0011
+  rotate: false
+  xy: 133, 18
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0012
+  rotate: false
+  xy: 214, 39
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0013
+  rotate: false
+  xy: 295, 118
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0014
+  rotate: false
+  xy: 295, 37
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0015
+  rotate: false
+  xy: 376, 116
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0016
+  rotate: false
+  xy: 457, 116
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0017
+  rotate: false
+  xy: 376, 35
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+images/fx_smoke/fx_smoke_0018
+  rotate: false
+  xy: 457, 35
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1

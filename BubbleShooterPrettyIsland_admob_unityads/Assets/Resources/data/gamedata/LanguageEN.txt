@@ -1,0 +1,155 @@
+Key,英文,描述
+Key,Text,描述
+MapNameRemark1,Water_Fall,地图名字
+MapNameRemark2,Peace_Island,地图名字
+MapNameRemark3,Wonder_Land,地图名字
+MapNameRemark4,Rainbow,地图名字
+MapNameRemark5,Windmill,地图名字
+MapNameRemark6,W_House,地图名字
+MapNameRemark7,Volcano,地图名字
+MapNameRemark8,Journey,地图名字
+MapNameRemark9,Beach,地图名字
+MapNameRemark10,Sand_Tree,地图名字
+MapNameRemark11,Tree_IsLand,地图名字
+MapNameRemark12,Sunset,地图名字
+MapNameRemark13,Cave,地图名字
+MapNameRemark14,Tent_IsLand,地图名字
+MapNameRemark15,Grass_Field,地图名字
+MapNameRemark16,Magical_Island,地图名字
+MapNameRemark17,Coconut_Village,地图名字
+MapNameRemark18,Coco_land,地图名字
+MapNameRemark19,Peach_Garden,地图名字
+MapNameRemark20,West_World,地图名字
+MapNameRemark21,Temple_Remains,地图名字
+MapNameRemark22,Coco_Beach,地图名字
+MapNameRemark23,Ancient_Tree,地图名字
+MapNameRemark24,Flower_Land,地图名字
+MapNameRemark25,West_Land,地图名字
+MapNameRemark26,Long_Journey,地图名字
+MapNameRemark27,Twilight,地图名字
+MapNameRemark28,Peace_Rainbow,地图名字
+MapNameRemark29,Day_Light,地图名字
+MapNameRemark30,Hawaii,地图名字
+MapNameRemark31,Small_Forest,地图名字
+MapNameRemark32,Water_Seal,地图名字
+MapNameRemark33,One_Tree,地图名字
+MapNameRemark34,Two_Coconut,地图名字
+MapNameRemark35,Mushroom_Island,地图名字
+MapNameRemark36,Cannibal_Village,地图名字
+MapNameRemark37,Phuket,地图名字
+MapNameRemark38,Mount_Fuji,地图名字
+MapNameRemark39,Maze,地图名字
+MapNameRemark40,Pharaoh_Kingdom,地图名字
+MapNameRemark41,Sakura_Village,地图名字
+MapNameRemark42,Lost_Land,地图名字
+MapNameRemark43,Dessert_Forest,地图名字
+MapNameRemark44,Merry Christmas,地图名字
+MapNameRemark45,Delicious dessert,地图名字
+MapNameRemark46,Magic forest,地图名字
+BuyBubbleTtitle,Out_Of_Bubbles,购买步数标题
+BuyBubbleRemark1,You_didn’t_rescue_all_elf！,购买步数说明
+BuyBubbleRemark2,Play_on,购买步数说明
+BuyBubbleFree,Free_bubble,购买步数说明
+BuyGangTypeRemark2,Fire_Blaster,购买缸标题
+BuyGangTypeRemark1,Flash_Cleaner,购买缸标题
+BuyGangTypeRemark4,Ice_Blast,购买缸标题
+BuyGangTypeRemark3,Growing_Vine,购买缸标题
+BuyGangRemark1,The_Flash_Jar_clears_all_bubbles_in_a_line!,购买缸说明
+BuyGangRemark2,Fire_Blaster_can_make_super_boom,购买缸说明
+BuyGangRemark3,Growing_Vine_can_clean_vertical_bubbles,购买缸说明
+BuyGangRemark4,Ice_Blast_can_shoot_3_ice_bubbles,购买缸说明
+BuyLivestitle,lives,购买体力标题
+BuySkillTitle,Purchase_props,购买技能标题
+BuySkillRemark1,Aiming_Line_make_you_more_accurate,购买技能说明
+BuySkillRemark2,With_the_Super_Bubble_Launcher_you_can_select_1_of_3_bubbles!,购买技能说明
+BuySkillRemark3,Get_5_shooting_bubbles,购买技能说明
+BuySkillRemark5,Magic_arrows_can_help_you_clear_the_blocks,购买技能说明
+BuySkillRemark6,The_Magic_Fairy_eliminates_all_bubbles_of_the_same_color!,购买技能说明
+BuySkillRemark4,Bomb_Bubbles_can_help_you_clear_the_blocks,购买技能说明
+GuideMaxNext,Next,大窗口的引导按钮
+GuideMaxTitle,Tutorial,大窗口的引导标题
+LoseUILevelTitle,Level_LEVELID,失败界面标题
+LoseUILevelFailedText,FALIED!,失败界面标题
+LoseUILevelRestartText,Tap_to_continue,失败界面按钮
+PlayUILevelTitle,Level_*,Play界面标题
+PlayUIAdGift,Play,Play界面按钮
+PlayUIAdLive,Free\nBooster,Play界面
+PlayUIRemark,Save_*_Small_Elves,Play界面
+PauseUITitle,Paused,暂停界面
+PauseUI1,Resume,暂停界面
+PauseUI2,Retry,暂停界面
+PauseUI3,Quit,暂停界面
+QuitGame1,You_will_lose_a_life!,退出确认
+QuitGame2,Quit,退出确认
+QuitGame3,Retry,退出确认
+QuitGame4,Play_On,退出确认
+WinUI,You_Win,胜利界面
+SetUITitle,Settings,设置面板地图标题
+SetUI1,Sound,设置面板
+SetUI2,Music,设置面板
+SetUI3,Rate_us,设置面板
+SetUI4,Support,设置面板
+BubbleBuyTipText,Only_10_Bubbles!,步数不足的提示
+SigninUItitle,Daily_Rewards,签到标题
+SigninUIremark,Come_back_daily_to_get_bonus.,签到说明
+SigninUI1,Day_1,签到说明
+SigninUI2,Day_2,签到说明
+SigninUI3,Day_3,签到说明
+SigninUI4,Day_4,签到说明
+SigninUI5,Day_5,签到说明
+SigninUI6,Day_6,签到说明
+SigninUI7,Day_7,签到说明
+SigninButton,Claim,签到按钮
+BuyLives,Next_Life_in:,体力商店文字说明
+BuyLives1,Refill_lives,体力商店文字说明
+BuyLives2,0.5hr_Unlimited_Lives,体力商店文字说明
+BuyLives3,2hrs_Unlimited_Lives,体力商店文字说明
+BuyLives4,You_have_a_full_set_of_lives,体力商店文字说明
+Shoptitle,Shop,商店标题
+Giftpackage1,Starter_Pack,商店说明
+Giftpackage2,Pro_Pack,商店标题
+Giftpackage3,Master_Pack,商店说明
+Giftpackage4,Super_Pack,商店标题
+Giftpackage5,Mega_Pack,商店说明
+Giftpackage6,Legendary_Pack,商店标题
+ShopRemark1,Show_more,商店说明
+ShopRemark2,Show_less,商店标题
+Turntabletitle,Lucky_Spin,转盘标题
+Turntableremark,Spin_and_win_your_prize!,转盘说明
+Turntablebutton,Free,转盘按钮
+Piggytitle,Piggy_Bank,金猪标题
+Piggyremark1,Save_at_least_4500_coins_to_open_your_piggy_bank_and_collect_your_savings.,金猪说明
+Piggyremark2,There_is_no_space_left_to_save_coins.Open_it_to_collect_your_earnings.,金猪说明
+Piggybutton,Open,金猪按钮
+CurrerLevel,Level_*,地图关卡
+Setting,Setting,设置
+Sign,Reward,签到
+Lotter,Spin,转盘
+ChestClose,Clear_*_levels_to_open_Level_Chest!,宝箱
+ChestTitle,Treasure Chest,宝箱
+ChestOK,Continue,宝箱
+ChestClaim,Claim,领取
+ChestOpen,OPEN,打开
+KillBubble1,Happy Time,爆炸特效
+KillBubble2,Good,爆炸特效
+KillBubble3,Well,爆炸特效
+KillBubble4,PowerEnergy ,爆炸特效
+KillBubble5,Super Energy ,爆炸特效
+KillBubble6,Good ,爆炸特效
+KillBubble7,Very Good,爆炸特效
+KillBubble8,Nice shot,爆炸特效
+KillBubble9,Wonderful,爆炸特效
+WinReward,Reward_x5,5倍奖励
+ContinuousWinHint1,Receive,连胜奖励提示1
+ContinuousWinHint2,at the beginning of the next level.,连胜奖励提示2
+ContinuousWinLoseHint,You will lose the reward!,中断连胜提示
+ContinuousPanelHint,Earn Power-up Boosters by clearing a new level!,连胜奖励面板提示
+ContinuousButton,Success\nStreak,连胜icon
+Confirm,Continue,确认按钮
+ContinuousPanelTitle,Success Streak,连胜标题
+HalfHourUnlimitedLivesFree,Free,看视频免费
+HalfHourUnlimitedLivesTmr,Tomorrow,第二天继续
+HalfHourUnlimitedLivesHint,0.5hr Unlimited Lives,半小时无限体力
+GoldText,Gold,金币
+OpenForFree,Free to Get,免费领取
+PropText,Prop,道具

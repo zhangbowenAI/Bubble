@@ -1,0 +1,20 @@
+
+fx_ui_mapPin.png
+size: 254,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+res/circle003
+  rotate: false
+  xy: 2, 114
+  size: 143, 138
+  orig: 149, 145
+  offset: 6, 7
+  index: -1
+res/fx_map-butto1_01
+  rotate: false
+  xy: 2, 2
+  size: 130, 110
+  orig: 155, 130
+  offset: 12, 12
+  index: -1

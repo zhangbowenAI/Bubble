@@ -1,0 +1,13 @@
+
+shouzhi.png
+size: 106,106
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/guide_icon_arrows
+  rotate: false
+  xy: 2, 2
+  size: 72, 102
+  orig: 72, 102
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+fx_ui_prop1.png
+size: 360,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/light_0011_
+  rotate: false
+  xy: 2, 2
+  size: 118, 114
+  orig: 150, 150
+  offset: 16, 18
+  index: -1
+images/light_0022_
+  rotate: false
+  xy: 2, 118
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1

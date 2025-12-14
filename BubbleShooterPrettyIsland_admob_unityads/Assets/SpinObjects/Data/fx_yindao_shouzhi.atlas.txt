@@ -1,0 +1,20 @@
+
+fx_yindao_shouzhi.png
+size: 243,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+res/images/jiantou
+  rotate: false
+  xy: 2, 180
+  size: 239, 61
+  orig: 250, 72
+  offset: 4, 7
+  index: -1
+res/images/shouzhi
+  rotate: false
+  xy: 2, 54
+  size: 124, 124
+  orig: 128, 128
+  offset: 1, 4
+  index: -1

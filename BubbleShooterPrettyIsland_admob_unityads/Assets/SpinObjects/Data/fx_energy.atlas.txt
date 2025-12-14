@@ -1,0 +1,62 @@
+
+fx_energy.png
+size: 260,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+energy_glow1
+  rotate: false
+  xy: 2, 166
+  size: 92, 92
+  orig: 100, 100
+  offset: 4, 4
+  index: -1
+energy_glow2
+  rotate: false
+  xy: 2, 72
+  size: 92, 92
+  orig: 100, 100
+  offset: 4, 4
+  index: -1
+energy_glow3
+  rotate: false
+  xy: 96, 166
+  size: 92, 92
+  orig: 100, 100
+  offset: 4, 4
+  index: -1
+energy_glow4
+  rotate: false
+  xy: 96, 72
+  size: 92, 92
+  orig: 100, 100
+  offset: 4, 4
+  index: -1
+skill_icon_1
+  rotate: false
+  xy: 190, 122
+  size: 66, 66
+  orig: 68, 68
+  offset: 1, 1
+  index: -1
+skill_icon_2
+  rotate: false
+  xy: 2, 2
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+skill_icon_3
+  rotate: false
+  xy: 190, 190
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+skill_icon_4
+  rotate: false
+  xy: 72, 2
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1

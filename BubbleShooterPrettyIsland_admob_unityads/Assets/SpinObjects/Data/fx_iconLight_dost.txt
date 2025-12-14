@@ -1,0 +1,19 @@
+{
+"skeleton": { "hash": "yr2V7UYBRsWrwTpMtIjEYwkb2R4", "spine": "3.4.02", "width": 123.07, "height": 123.07 },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "images/dots", "bone": "root", "attachment": "images/dots", "blend": "additive" }
+],
+"skins": {
+	"default": {
+		"images/dots": {
+			"images/dots": { "scaleX": 1.923, "scaleY": 1.923, "width": 64, "height": 64 }
+		}
+	}
+},
+"animations": {
+	"add": {}
+}
+}

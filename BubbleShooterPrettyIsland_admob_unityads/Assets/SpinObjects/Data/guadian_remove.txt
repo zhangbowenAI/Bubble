@@ -1,0 +1,60 @@
+{
+"skeleton": { "hash": "gxATZEfkLorT1JCeMTKBbaOK3gs", "spine": "3.4.02", "width": 229, "height": 234 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fx_guadian", "parent": "root" }
+],
+"slots": [
+	{ "name": "fx_guadian", "bone": "fx_guadian", "attachment": "res/fx_guadian_16" }
+],
+"skins": {
+	"default": {
+		"fx_guadian": {
+			"res/fx_guadian_00": { "width": 229, "height": 234 },
+			"res/fx_guadian_01": { "width": 229, "height": 234 },
+			"res/fx_guadian_02": { "width": 229, "height": 234 },
+			"res/fx_guadian_03": { "width": 229, "height": 234 },
+			"res/fx_guadian_04": { "width": 229, "height": 234 },
+			"res/fx_guadian_05": { "width": 229, "height": 234 },
+			"res/fx_guadian_06": { "width": 229, "height": 234 },
+			"res/fx_guadian_07": { "width": 229, "height": 234 },
+			"res/fx_guadian_08": { "width": 229, "height": 234 },
+			"res/fx_guadian_09": { "width": 229, "height": 234 },
+			"res/fx_guadian_10": { "width": 229, "height": 234 },
+			"res/fx_guadian_11": { "width": 229, "height": 234 },
+			"res/fx_guadian_12": { "width": 229, "height": 234 },
+			"res/fx_guadian_13": { "width": 229, "height": 234 },
+			"res/fx_guadian_14": { "width": 229, "height": 234 },
+			"res/fx_guadian_15": { "width": 229, "height": 234 },
+			"res/fx_guadian_16": { "width": 229, "height": 234 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"fx_guadian": {
+				"attachment": [
+					{ "time": 0, "name": "res/fx_guadian_00" },
+					{ "time": 0.0666, "name": "res/fx_guadian_01" },
+					{ "time": 0.1333, "name": "res/fx_guadian_02" },
+					{ "time": 0.2, "name": "res/fx_guadian_03" },
+					{ "time": 0.2666, "name": "res/fx_guadian_04" },
+					{ "time": 0.3333, "name": "res/fx_guadian_05" },
+					{ "time": 0.4, "name": "res/fx_guadian_06" },
+					{ "time": 0.4666, "name": "res/fx_guadian_07" },
+					{ "time": 0.5333, "name": "res/fx_guadian_08" },
+					{ "time": 0.6, "name": "res/fx_guadian_09" },
+					{ "time": 0.6666, "name": "res/fx_guadian_10" },
+					{ "time": 0.7333, "name": "res/fx_guadian_11" },
+					{ "time": 0.8, "name": "res/fx_guadian_12" },
+					{ "time": 0.8666, "name": "res/fx_guadian_13" },
+					{ "time": 0.9333, "name": "res/fx_guadian_14" },
+					{ "time": 1, "name": "res/fx_guadian_15" },
+					{ "time": 1.0666, "name": "res/fx_guadian_16" }
+				]
+			}
+		}
+	}
+}
+}

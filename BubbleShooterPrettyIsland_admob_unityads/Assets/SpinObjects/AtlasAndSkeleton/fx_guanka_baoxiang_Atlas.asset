@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 032742b1cc99cec27a88a64bf3dd6ce5, type: 3}
+  m_Name: "fx_guanka_baoxiang_Atlas"
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 1949a62a4a77430bb0285f5e1abdbcab, type: 3}
+  materials:
+  - {fileID: 2100000, guid: c05d72402dee44e98cf058ca63f99538, type: 2}

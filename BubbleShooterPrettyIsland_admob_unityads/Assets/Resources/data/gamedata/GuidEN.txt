@@ -1,0 +1,34 @@
+关卡,文本,文本2,描述
+level,text1,text2,描述
+level1,Shoot the same elf color bubbles to save him,,描述
+level2,,Tap to switch the bubble,描述
+level3,,Rebound the shooting bubble to your targets,描述
+level4,Hit the laser ball to clear all the blocks around,,描述
+level5,Fire Blaster can make super boom,Shoot down the bubbles to the jars it will create skills|Tap the jar!use skills!,描述
+level6,,Hit fire bubbles to boom!,描述
+level7,,,描述
+level8,Growing Vine can clean vertical bubbles,Shoot down the bubbles to the jars it will create skills|Tap the jar!use skills!,描述
+level9,,Hit vine bubble to grow up,描述
+level10,Mix 2 skills to get different effects,Shoot down the bubbles to the jars it will create skills|Mix 2 skills to get different effects,描述
+level11,Stones can not be broken but can be dropping!,,描述
+level12,Aiming Line make you more accurate,,描述
+level13,Ball Exchanger can choose 3 shooting bubbles,,描述
+level14,Get 7 shooting bubbles,,描述
+level15,Flash Cleaner can clear a whole line,Shoot down the bubbles to the jars  it will create skills|Tap the jar!use skills!,描述
+level16,,Hit Flash Bubbles to clear all the lines' bubbles,描述
+level17,Mix 3 skills to have a large area of explosion,Shoot down the bubbles to the jars it will create skills|Mix 3 skills to have a blast,描述
+level18,Bomb Bubbles can help you clear the blocks,Click to use Bomb Bubbles,描述
+level19,Magic arrows can clear all the bubbles on the path!,Click to use Magic arrows,描述
+level20,The Magic Fairy eliminates all bubbles of the same color!,Click to use Magic Fairy,描述
+level21,Mirror bubble can copy color!,,描述
+level24,Ice Blast can shoot 3 ice bubbles,Shoot down the bubbles to the jars it will create skills|Tap the jar!use skills!,描述
+level25,Mix all 4 skills to clear all on the screen,Shoot down the bubbles to the jars it will create skills|Mix all 4 skills to clear all on the screen,描述
+level31,Watch out for sharp bubbles!,,描述
+level41,Pop Air Bubbles by shooting bubbles at them!,,描述
+level51,Off-Color bubbles will swich color randomly,,描述
+level61,Shoot bubble to smash ice bubble!,,描述
+level71,Match 3 bubbles to destroy the lock!,,描述
+level81,Shoot down the +3 bubble to add 3 shooting balls but watch out the -3 bubbles,,描述
+level91,Clouds will cover the following bubbles,,描述
+level101,Shoot down all the bubbles around the big elf to collect it,,描述
+level111,Hit the Bubble Hook to drop all the bubbles around it,,描述

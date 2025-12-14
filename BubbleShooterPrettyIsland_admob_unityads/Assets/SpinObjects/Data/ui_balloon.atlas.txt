@@ -1,0 +1,286 @@
+
+ui_balloon.png
+size: 377,377
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ballboon/level_balloon_1
+  rotate: false
+  xy: 2, 140
+  size: 226, 235
+  orig: 256, 256
+  offset: 15, 11
+  index: -1
+ballboon/level_balloon_1a
+  rotate: false
+  xy: 2, 65
+  size: 203, 73
+  orig: 204, 74
+  offset: 0, 1
+  index: -1
+ballboon/level_balloon_2
+  rotate: false
+  xy: 230, 163
+  size: 43, 131
+  orig: 44, 132
+  offset: 0, 1
+  index: -1
+ballboon/level_balloon_2b
+  rotate: false
+  xy: 275, 166
+  size: 37, 128
+  orig: 38, 128
+  offset: 0, 0
+  index: -1
+ballboon/level_balloon_2c
+  rotate: false
+  xy: 275, 166
+  size: 37, 128
+  orig: 38, 128
+  offset: 0, 0
+  index: -1
+ballboon/level_balloon_2d
+  rotate: false
+  xy: 314, 209
+  size: 31, 85
+  orig: 32, 86
+  offset: 0, 1
+  index: -1
+ballboon/level_balloon_3
+  rotate: true
+  xy: 347, 317
+  size: 58, 14
+  orig: 58, 14
+  offset: 0, 0
+  index: -1
+ballboon/level_balloon_4
+  rotate: false
+  xy: 285, 52
+  size: 42, 14
+  orig: 44, 14
+  offset: 1, 0
+  index: -1
+ear_L
+  rotate: false
+  xy: 356, 106
+  size: 6, 7
+  orig: 8, 9
+  offset: 1, 1
+  index: -1
+ear_R
+  rotate: false
+  xy: 367, 276
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+eye_L
+  rotate: false
+  xy: 346, 87
+  size: 17, 17
+  orig: 19, 19
+  offset: 1, 1
+  index: -1
+eye_L_y
+  rotate: false
+  xy: 89, 9
+  size: 4, 4
+  orig: 6, 6
+  offset: 1, 1
+  index: -1
+eye_L_z
+  rotate: false
+  xy: 364, 106
+  size: 5, 7
+  orig: 7, 9
+  offset: 1, 1
+  index: -1
+eye_R
+  rotate: false
+  xy: 267, 143
+  size: 16, 18
+  orig: 18, 20
+  offset: 1, 1
+  index: -1
+eye_R_y
+  rotate: false
+  xy: 329, 52
+  size: 4, 5
+  orig: 6, 7
+  offset: 1, 1
+  index: -1
+eye_R_z
+  rotate: false
+  xy: 329, 59
+  size: 5, 7
+  orig: 7, 9
+  offset: 1, 1
+  index: -1
+hair
+  rotate: true
+  xy: 347, 231
+  size: 31, 13
+  orig: 33, 15
+  offset: 1, 1
+  index: -1
+hand_L
+  rotate: false
+  xy: 367, 286
+  size: 8, 9
+  orig: 10, 11
+  offset: 1, 1
+  index: -1
+hand_R
+  rotate: false
+  xy: 367, 266
+  size: 8, 8
+  orig: 10, 10
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 314, 160
+  size: 60, 47
+  orig: 62, 49
+  offset: 1, 1
+  index: -1
+images/body
+  rotate: false
+  xy: 251, 10
+  size: 43, 40
+  orig: 45, 42
+  offset: 1, 1
+  index: -1
+images/brow_L
+  rotate: false
+  xy: 285, 160
+  size: 17, 4
+  orig: 19, 6
+  offset: 1, 1
+  index: -1
+images/brow_R
+  rotate: false
+  xy: 356, 115
+  size: 19, 13
+  orig: 21, 15
+  offset: 1, 1
+  index: -1
+images/ear_L
+  rotate: true
+  xy: 230, 143
+  size: 18, 35
+  orig: 20, 37
+  offset: 1, 1
+  index: -1
+images/ear_R
+  rotate: true
+  xy: 296, 11
+  size: 39, 32
+  orig: 41, 34
+  offset: 1, 1
+  index: -1
+images/eye_L_w
+  rotate: true
+  xy: 179, 9
+  size: 18, 24
+  orig: 20, 26
+  offset: 1, 1
+  index: -1
+images/eye_R_w
+  rotate: true
+  xy: 347, 264
+  size: 31, 18
+  orig: 33, 20
+  offset: 1, 1
+  index: -1
+images/hair
+  rotate: false
+  xy: 2, 2
+  size: 85, 61
+  orig: 87, 63
+  offset: 1, 1
+  index: -1
+images/hand_L
+  rotate: true
+  xy: 356, 130
+  size: 28, 19
+  orig: 30, 21
+  offset: 1, 1
+  index: -1
+images/hand_R
+  rotate: false
+  xy: 347, 297
+  size: 28, 18
+  orig: 30, 20
+  offset: 1, 1
+  index: -1
+images/head
+  rotate: false
+  xy: 207, 52
+  size: 76, 86
+  orig: 78, 88
+  offset: 1, 1
+  index: -1
+images/leg
+  rotate: true
+  xy: 179, 29
+  size: 34, 24
+  orig: 36, 26
+  offset: 1, 1
+  index: -1
+images/maozi
+  rotate: false
+  xy: 230, 296
+  size: 115, 79
+  orig: 117, 81
+  offset: 1, 1
+  index: -1
+images/mouth
+  rotate: false
+  xy: 347, 211
+  size: 15, 18
+  orig: 17, 20
+  offset: 1, 1
+  index: -1
+images/wing_L1
+  rotate: false
+  xy: 285, 106
+  size: 69, 52
+  orig: 71, 54
+  offset: 1, 1
+  index: -1
+images/wing_L2
+  rotate: true
+  xy: 205, 10
+  size: 40, 44
+  orig: 42, 46
+  offset: 1, 1
+  index: -1
+images/wing_R1
+  rotate: false
+  xy: 89, 15
+  size: 88, 48
+  orig: 90, 50
+  offset: 1, 1
+  index: -1
+images/wing_R2
+  rotate: false
+  xy: 285, 68
+  size: 59, 36
+  orig: 61, 38
+  offset: 1, 1
+  index: -1
+mouth_none
+  rotate: false
+  xy: 304, 160
+  size: 8, 4
+  orig: 10, 6
+  offset: 1, 1
+  index: -1
+nose
+  rotate: true
+  xy: 371, 106
+  size: 7, 4
+  orig: 9, 6
+  offset: 1, 1
+  index: -1

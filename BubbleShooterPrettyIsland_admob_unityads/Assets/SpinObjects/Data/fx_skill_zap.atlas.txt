@@ -1,0 +1,41 @@
+
+fx_skill_zap.png
+size: 528,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ball_dian
+  rotate: false
+  xy: 462, 462
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+images/zap_wai_01
+  rotate: false
+  xy: 2, 295
+  size: 228, 231
+  orig: 228, 231
+  offset: 0, 0
+  index: -1
+images/zap_wai_02
+  rotate: false
+  xy: 2, 62
+  size: 228, 231
+  orig: 228, 231
+  offset: 0, 0
+  index: -1
+images/zap_wai_03
+  rotate: false
+  xy: 232, 295
+  size: 228, 231
+  orig: 228, 231
+  offset: 0, 0
+  index: -1
+images/zap_wai_04
+  rotate: false
+  xy: 232, 62
+  size: 228, 231
+  orig: 228, 231
+  offset: 0, 0
+  index: -1

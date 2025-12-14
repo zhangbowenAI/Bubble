@@ -1,0 +1,97 @@
+
+bubble_dye.png
+size: 62,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 6
+  size: 40, 54
+  orig: 42, 56
+  offset: 1, 1
+  index: -1
+p1
+  rotate: false
+  xy: 44, 23
+  size: 6, 7
+  orig: 8, 9
+  offset: 1, 1
+  index: -1
+p10
+  rotate: false
+  xy: 44, 32
+  size: 7, 7
+  orig: 9, 9
+  offset: 1, 1
+  index: -1
+p11
+  rotate: false
+  xy: 53, 32
+  size: 7, 7
+  orig: 9, 9
+  offset: 1, 1
+  index: -1
+p12
+  rotate: false
+  xy: 52, 11
+  size: 4, 4
+  orig: 6, 6
+  offset: 1, 1
+  index: -1
+p2
+  rotate: false
+  xy: 44, 41
+  size: 7, 8
+  orig: 9, 10
+  offset: 1, 1
+  index: -1
+p3
+  rotate: false
+  xy: 52, 17
+  size: 5, 5
+  orig: 7, 7
+  offset: 1, 1
+  index: -1
+p4
+  rotate: false
+  xy: 44, 15
+  size: 6, 6
+  orig: 8, 8
+  offset: 1, 1
+  index: -1
+p5
+  rotate: false
+  xy: 44, 51
+  size: 9, 9
+  orig: 11, 11
+  offset: 1, 1
+  index: -1
+p6
+  rotate: true
+  xy: 55, 54
+  size: 6, 5
+  orig: 8, 7
+  offset: 1, 1
+  index: -1
+p7
+  rotate: false
+  xy: 44, 7
+  size: 5, 6
+  orig: 7, 8
+  offset: 1, 1
+  index: -1
+p8
+  rotate: true
+  xy: 53, 41
+  size: 8, 7
+  orig: 10, 9
+  offset: 1, 1
+  index: -1
+p9
+  rotate: false
+  xy: 52, 24
+  size: 6, 6
+  orig: 8, 8
+  offset: 1, 1
+  index: -1

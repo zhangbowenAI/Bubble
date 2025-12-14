@@ -1,0 +1,215 @@
+
+fx_4skill_remove.png
+size: 1013,1013
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fx_4ji_light2_00
+  rotate: false
+  xy: 2, 693
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light2_01
+  rotate: false
+  xy: 2, 373
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light2_02
+  rotate: false
+  xy: 2, 53
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light2_03
+  rotate: true
+  xy: 184, 831
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light2_04
+  rotate: true
+  xy: 504, 831
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light2_05
+  rotate: false
+  xy: 184, 511
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light2_06
+  rotate: false
+  xy: 184, 191
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light2_07
+  rotate: true
+  xy: 184, 9
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light2_08
+  rotate: true
+  xy: 504, 649
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light2_09
+  rotate: false
+  xy: 824, 511
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light2_10
+  rotate: true
+  xy: 504, 467
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light2_11
+  rotate: false
+  xy: 824, 191
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light2_12
+  rotate: true
+  xy: 504, 10
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light2_16
+  rotate: true
+  xy: 824, 831
+  size: 180, 187
+  orig: 180, 318
+  offset: 0, 131
+  index: -1
+images/fx_4ji_light2_17
+  rotate: false
+  xy: 696, 262
+  size: 99, 99
+  orig: 180, 318
+  offset: 81, 219
+  index: -1
+images/fx_4ji_light_00
+  rotate: false
+  xy: 366, 484
+  size: 80, 115
+  orig: 180, 318
+  offset: 53, 163
+  index: -1
+images/fx_4ji_light_02
+  rotate: false
+  xy: 696, 363
+  size: 102, 102
+  orig: 180, 318
+  offset: 38, 163
+  index: -1
+images/fx_4ji_light_03
+  rotate: true
+  xy: 2, 28
+  size: 23, 117
+  orig: 180, 318
+  offset: 76, 201
+  index: -1
+images/fx_4ji_light_04
+  rotate: false
+  xy: 524, 214
+  size: 170, 251
+  orig: 180, 318
+  offset: 10, 67
+  index: -1
+images/fx_4ji_light_05
+  rotate: false
+  xy: 366, 192
+  size: 156, 273
+  orig: 180, 318
+  offset: 0, 45
+  index: -1
+images/fx_4ji_light_06
+  rotate: false
+  xy: 366, 601
+  size: 129, 228
+  orig: 180, 318
+  offset: 28, 90
+  index: -1
+
+fx_4skill_remove2.png
+size: 700,700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fx_4ji_light2_13
+  rotate: false
+  xy: 2, 380
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light2_14
+  rotate: false
+  xy: 2, 60
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light2_15
+  rotate: true
+  xy: 184, 518
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light_01
+  rotate: true
+  xy: 184, 2
+  size: 158, 318
+  orig: 180, 318
+  offset: 22, 0
+  index: -1
+images/fx_4ji_light_07
+  rotate: false
+  xy: 504, 380
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light_08
+  rotate: true
+  xy: 184, 336
+  size: 180, 318
+  orig: 180, 318
+  offset: 0, 0
+  index: -1
+images/fx_4ji_light_09
+  rotate: false
+  xy: 504, 75
+  size: 180, 303
+  orig: 180, 318
+  offset: 0, 15
+  index: -1
+images/fx_4ji_light_10
+  rotate: true
+  xy: 184, 162
+  size: 172, 303
+  orig: 180, 318
+  offset: 5, 0
+  index: -1

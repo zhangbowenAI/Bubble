@@ -1,0 +1,125 @@
+
+guadian_remove.png
+size: 873,873
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+res/fx_guadian_00
+  rotate: false
+  xy: 508, 101
+  size: 68, 68
+  orig: 229, 234
+  offset: 79, 82
+  index: -1
+res/fx_guadian_01
+  rotate: false
+  xy: 388, 45
+  size: 118, 118
+  orig: 229, 234
+  offset: 54, 57
+  index: -1
+res/fx_guadian_02
+  rotate: false
+  xy: 264, 41
+  size: 122, 122
+  orig: 229, 234
+  offset: 52, 55
+  index: -1
+res/fx_guadian_03
+  rotate: false
+  xy: 695, 433
+  size: 126, 126
+  orig: 229, 234
+  offset: 50, 53
+  index: -1
+res/fx_guadian_04
+  rotate: false
+  xy: 2, 31
+  size: 132, 132
+  orig: 229, 234
+  offset: 47, 50
+  index: -1
+res/fx_guadian_05
+  rotate: false
+  xy: 695, 561
+  size: 132, 132
+  orig: 229, 234
+  offset: 47, 50
+  index: -1
+res/fx_guadian_06
+  rotate: false
+  xy: 136, 35
+  size: 126, 128
+  orig: 229, 234
+  offset: 50, 52
+  index: -1
+res/fx_guadian_07
+  rotate: false
+  xy: 464, 171
+  size: 228, 228
+  orig: 229, 234
+  offset: 0, 3
+  index: -1
+res/fx_guadian_08
+  rotate: false
+  xy: 2, 637
+  size: 229, 234
+  orig: 229, 234
+  offset: 0, 0
+  index: -1
+res/fx_guadian_09
+  rotate: false
+  xy: 2, 401
+  size: 229, 234
+  orig: 229, 234
+  offset: 0, 0
+  index: -1
+res/fx_guadian_10
+  rotate: false
+  xy: 233, 637
+  size: 229, 234
+  orig: 229, 234
+  offset: 0, 0
+  index: -1
+res/fx_guadian_11
+  rotate: false
+  xy: 2, 165
+  size: 229, 234
+  orig: 229, 234
+  offset: 0, 0
+  index: -1
+res/fx_guadian_12
+  rotate: false
+  xy: 233, 401
+  size: 229, 234
+  orig: 229, 234
+  offset: 0, 0
+  index: -1
+res/fx_guadian_13
+  rotate: false
+  xy: 464, 637
+  size: 229, 234
+  orig: 229, 234
+  offset: 0, 0
+  index: -1
+res/fx_guadian_14
+  rotate: false
+  xy: 233, 165
+  size: 229, 234
+  orig: 229, 234
+  offset: 0, 0
+  index: -1
+res/fx_guadian_15
+  rotate: false
+  xy: 464, 401
+  size: 229, 234
+  orig: 229, 234
+  offset: 0, 0
+  index: -1
+res/fx_guadian_16
+  rotate: false
+  xy: 695, 695
+  size: 176, 176
+  orig: 229, 234
+  offset: 26, 29
+  index: -1

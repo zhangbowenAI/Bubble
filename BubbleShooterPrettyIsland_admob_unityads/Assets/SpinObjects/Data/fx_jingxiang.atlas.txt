@@ -1,0 +1,90 @@
+
+fx_jingxiang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+res/fx_jingxiangqiu_00
+  rotate: true
+  xy: 259, 318
+  size: 69, 75
+  orig: 127, 129
+  offset: 27, 23
+  index: -1
+res/fx_jingxiangqiu_01
+  rotate: false
+  xy: 198, 12
+  size: 89, 105
+  orig: 127, 129
+  offset: 20, 15
+  index: -1
+res/fx_jingxiangqiu_02
+  rotate: false
+  xy: 101, 6
+  size: 95, 111
+  orig: 127, 129
+  offset: 16, 11
+  index: -1
+res/fx_jingxiangqiu_03
+  rotate: false
+  xy: 2, 2
+  size: 97, 115
+  orig: 127, 129
+  offset: 15, 8
+  index: -1
+res/fx_jingxiangqiu_04
+  rotate: false
+  xy: 379, 392
+  size: 109, 118
+  orig: 127, 129
+  offset: 5, 6
+  index: -1
+res/fx_jingxiangqiu_05
+  rotate: false
+  xy: 259, 389
+  size: 118, 121
+  orig: 127, 129
+  offset: 0, 5
+  index: -1
+res/fx_jingxiangqiu_06
+  rotate: false
+  xy: 130, 385
+  size: 127, 125
+  orig: 127, 129
+  offset: 0, 4
+  index: -1
+res/fx_jingxiangqiu_07
+  rotate: false
+  xy: 2, 381
+  size: 126, 129
+  orig: 127, 129
+  offset: 1, 0
+  index: -1
+res/fx_jingxiangqiu_08
+  rotate: false
+  xy: 2, 250
+  size: 125, 129
+  orig: 127, 129
+  offset: 2, 0
+  index: -1
+res/fx_jingxiangqiu_09
+  rotate: false
+  xy: 2, 119
+  size: 121, 129
+  orig: 127, 129
+  offset: 6, 0
+  index: -1
+res/fx_jingxiangqiu_10
+  rotate: false
+  xy: 125, 119
+  size: 97, 129
+  orig: 127, 129
+  offset: 30, 0
+  index: -1
+res/fx_jingxiangqiu_11
+  rotate: true
+  xy: 130, 315
+  size: 68, 120
+  orig: 127, 129
+  offset: 55, 0
+  index: -1

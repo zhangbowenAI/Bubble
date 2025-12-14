@@ -1,0 +1,96 @@
+
+bigElf_remove.png
+size: 995,995
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+res/Animal bubble_00
+  rotate: false
+  xy: 2, 667
+  size: 356, 326
+  orig: 356, 326
+  offset: 0, 0
+  index: -1
+res/Animal bubble_02
+  rotate: false
+  xy: 2, 40
+  size: 313, 308
+  orig: 356, 326
+  offset: 25, 18
+  index: -1
+res/Animal bubble_03
+  rotate: false
+  xy: 2, 350
+  size: 327, 315
+  orig: 356, 326
+  offset: 17, 11
+  index: -1
+res/Animal bubble_04
+  rotate: false
+  xy: 360, 678
+  size: 325, 315
+  orig: 356, 326
+  offset: 21, 11
+  index: -1
+res/Animal bubble_05
+  rotate: false
+  xy: 687, 690
+  size: 306, 303
+  orig: 356, 326
+  offset: 35, 23
+  index: -1
+res/Animal bubble_06
+  rotate: false
+  xy: 618, 88
+  size: 289, 288
+  orig: 356, 326
+  offset: 43, 34
+  index: -1
+res/Animal bubble_07
+  rotate: true
+  xy: 331, 366
+  size: 299, 285
+  orig: 356, 326
+  offset: 36, 32
+  index: -1
+res/Animal bubble_08
+  rotate: true
+  xy: 618, 378
+  size: 298, 290
+  orig: 356, 326
+  offset: 35, 32
+  index: -1
+res/Animal bubble_09
+  rotate: true
+  xy: 317, 55
+  size: 293, 286
+  orig: 356, 326
+  offset: 34, 39
+  index: -1
+
+bigElf_remove2.png
+size: 489,489
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+res/Animal bubble_01
+  rotate: false
+  xy: 2, 229
+  size: 263, 258
+  orig: 356, 326
+  offset: 50, 49
+  index: -1
+res/circle_002_
+  rotate: false
+  xy: 267, 278
+  size: 208, 209
+  orig: 256, 256
+  offset: 24, 24
+  index: -1
+res/tex_circle
+  rotate: false
+  xy: 2, 2
+  size: 225, 225
+  orig: 256, 256
+  offset: 19, 13
+  index: -1

@@ -1,0 +1,97 @@
+
+fx_bing.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ice_boom_01
+  rotate: false
+  xy: 2, 301
+  size: 209, 209
+  orig: 209, 209
+  offset: 0, 0
+  index: -1
+images/ice_boom_02
+  rotate: true
+  xy: 138, 165
+  size: 134, 130
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+images/ice_boom_03
+  rotate: true
+  xy: 269, 2
+  size: 120, 107
+  orig: 134, 134
+  offset: 5, 14
+  index: -1
+images/ice_boom_04
+  rotate: false
+  xy: 348, 254
+  size: 132, 123
+  orig: 134, 134
+  offset: 0, 7
+  index: -1
+images/ice_boom_05
+  rotate: false
+  xy: 348, 379
+  size: 134, 131
+  orig: 134, 134
+  offset: 0, 3
+  index: -1
+images/ice_boom_06
+  rotate: true
+  xy: 136, 29
+  size: 134, 131
+  orig: 134, 134
+  offset: 0, 3
+  index: -1
+images/ice_boom_07
+  rotate: false
+  xy: 2, 29
+  size: 132, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+images/ice_boom_08
+  rotate: false
+  xy: 213, 376
+  size: 133, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+images/ice_boom_09
+  rotate: false
+  xy: 2, 165
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+images/ice_boom_10
+  rotate: true
+  xy: 270, 124
+  size: 128, 129
+  orig: 134, 134
+  offset: 5, 2
+  index: -1
+images/ice_boom_11
+  rotate: false
+  xy: 401, 131
+  size: 101, 121
+  orig: 134, 134
+  offset: 9, 4
+  index: -1
+images/ice_boom_12
+  rotate: true
+  xy: 378, 24
+  size: 98, 92
+  orig: 134, 134
+  offset: 12, 8
+  index: -1
+images/ice_boom_13
+  rotate: false
+  xy: 213, 308
+  size: 48, 66
+  orig: 134, 134
+  offset: 19, 34
+  index: -1

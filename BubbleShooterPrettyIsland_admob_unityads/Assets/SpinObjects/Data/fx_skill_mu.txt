@@ -1,0 +1,55 @@
+{
+"skeleton": { "hash": "tNVxc4M77C9qmYdMcSXolg3Bl+A", "spine": "3.4.02", "width": 140, "height": 140 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "fx", "parent": "root" }
+],
+"slots": [
+	{ "name": "images/ball_mu", "bone": "root", "attachment": "images/ball_mu" },
+	{ "name": "images/mu_01", "bone": "fx", "attachment": "images/mu_01" }
+],
+"skins": {
+	"default": {
+		"images/ball_mu": {
+			"images/ball_mu": { "width": 64, "height": 64 }
+		},
+		"images/mu_01": {
+			"images/mu_01": { "width": 140, "height": 140 },
+			"images/mu_02": { "width": 140, "height": 140 },
+			"images/mu_03": { "width": 140, "height": 140 },
+			"images/mu_04": { "width": 140, "height": 140 },
+			"images/mu_05": { "width": 140, "height": 140 },
+			"images/mu_06": { "width": 140, "height": 140 },
+			"images/mu_07": { "width": 140, "height": 140 },
+			"images/mu_08": { "width": 140, "height": 140 },
+			"images/mu_09": { "width": 140, "height": 140 },
+			"images/mu_10": { "width": 140, "height": 140 },
+			"images/mu_11": { "width": 140, "height": 140 },
+			"images/mu_12": { "width": 140, "height": 140 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"images/mu_01": {
+				"attachment": [
+					{ "time": 0, "name": "images/mu_01" },
+					{ "time": 0.0666, "name": "images/mu_02" },
+					{ "time": 0.1333, "name": "images/mu_03" },
+					{ "time": 0.2, "name": "images/mu_04" },
+					{ "time": 0.2666, "name": "images/mu_05" },
+					{ "time": 0.3333, "name": "images/mu_06" },
+					{ "time": 0.4, "name": "images/mu_07" },
+					{ "time": 0.4666, "name": "images/mu_08" },
+					{ "time": 0.5333, "name": "images/mu_09" },
+					{ "time": 0.6, "name": "images/mu_10" },
+					{ "time": 0.6666, "name": "images/mu_11" },
+					{ "time": 0.7333, "name": "images/mu_12" },
+					{ "time": 0.8, "name": null }
+				]
+			}
+		}
+	}
+}
+}

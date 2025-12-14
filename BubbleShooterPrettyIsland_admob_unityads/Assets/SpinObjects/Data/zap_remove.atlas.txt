@@ -1,0 +1,69 @@
+
+zap_remove.png
+size: 484,484
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bigzap_01
+  rotate: false
+  xy: 2, 432
+  size: 447, 50
+  orig: 450, 50
+  offset: 1, 0
+  index: -1
+images/bigzap_02
+  rotate: false
+  xy: 2, 380
+  size: 447, 50
+  orig: 450, 50
+  offset: 1, 0
+  index: -1
+images/bigzap_03
+  rotate: false
+  xy: 2, 328
+  size: 447, 50
+  orig: 450, 50
+  offset: 1, 0
+  index: -1
+images/bigzap_04
+  rotate: false
+  xy: 2, 276
+  size: 447, 50
+  orig: 450, 50
+  offset: 1, 0
+  index: -1
+images/bigzap_05
+  rotate: false
+  xy: 2, 224
+  size: 447, 50
+  orig: 450, 50
+  offset: 1, 0
+  index: -1
+images/bigzap_06
+  rotate: false
+  xy: 2, 172
+  size: 447, 50
+  orig: 450, 50
+  offset: 1, 0
+  index: -1
+images/bigzap_07
+  rotate: false
+  xy: 2, 120
+  size: 447, 50
+  orig: 450, 50
+  offset: 1, 0
+  index: -1
+images/bigzap_08
+  rotate: false
+  xy: 2, 68
+  size: 447, 50
+  orig: 450, 50
+  offset: 1, 0
+  index: -1
+images/dots
+  rotate: false
+  xy: 2, 2
+  size: 63, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

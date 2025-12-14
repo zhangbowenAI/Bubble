@@ -1,0 +1,167 @@
+
+fx_bg_level7.png
+size: 378,378
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0001
+  rotate: true
+  xy: 233, 29
+  size: 20, 19
+  orig: 133, 186
+  offset: 96, 16
+  index: -1
+0002
+  rotate: false
+  xy: 298, 195
+  size: 35, 33
+  orig: 133, 186
+  offset: 81, 33
+  index: -1
+0003
+  rotate: false
+  xy: 238, 194
+  size: 58, 57
+  orig: 133, 186
+  offset: 64, 26
+  index: -1
+0004
+  rotate: false
+  xy: 178, 51
+  size: 74, 85
+  orig: 133, 186
+  offset: 51, 20
+  index: -1
+0005
+  rotate: false
+  xy: 228, 253
+  size: 81, 123
+  orig: 133, 186
+  offset: 44, 14
+  index: -1
+0006
+  rotate: false
+  xy: 2, 228
+  size: 108, 148
+  orig: 133, 186
+  offset: 15, 13
+  index: -1
+0007
+  rotate: false
+  xy: 112, 247
+  size: 114, 129
+  orig: 133, 186
+  offset: 5, 43
+  index: -1
+level7_01
+  rotate: false
+  xy: 2, 15
+  size: 86, 105
+  orig: 86, 105
+  offset: 0, 0
+  index: -1
+level7_02
+  rotate: false
+  xy: 2, 15
+  size: 86, 105
+  orig: 86, 105
+  offset: 0, 0
+  index: -1
+level7_03
+  rotate: false
+  xy: 90, 15
+  size: 86, 105
+  orig: 86, 105
+  offset: 0, 0
+  index: -1
+level7_04
+  rotate: false
+  xy: 105, 130
+  size: 40, 96
+  orig: 40, 96
+  offset: 0, 0
+  index: -1
+level7_05
+  rotate: false
+  xy: 365, 255
+  size: 11, 121
+  orig: 11, 122
+  offset: 0, 0
+  index: -1
+level7_06
+  rotate: false
+  xy: 254, 38
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+level7_07
+  rotate: false
+  xy: 2, 122
+  size: 101, 104
+  orig: 101, 104
+  offset: 0, 0
+  index: -1
+level7_08
+  rotate: true
+  xy: 112, 229
+  size: 16, 124
+  orig: 16, 125
+  offset: 0, 1
+  index: -1
+level7_09
+  rotate: true
+  xy: 301, 38
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+level7_10
+  rotate: false
+  xy: 147, 138
+  size: 73, 89
+  orig: 73, 89
+  offset: 0, 0
+  index: -1
+level7_11
+  rotate: false
+  xy: 311, 230
+  size: 52, 146
+  orig: 53, 147
+  offset: 0, 1
+  index: -1
+light
+  rotate: true
+  xy: 301, 85
+  size: 52, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+light1
+  rotate: true
+  xy: 178, 2
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 222, 139
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+light3
+  rotate: false
+  xy: 271, 139
+  size: 47, 53
+  orig: 47, 53
+  offset: 0, 0
+  index: -1
+light4
+  rotate: false
+  xy: 254, 84
+  size: 45, 53
+  orig: 45, 54
+  offset: 0, 0
+  index: -1

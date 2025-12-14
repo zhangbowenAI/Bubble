@@ -1,0 +1,98 @@
+{
+"skeleton": { "hash": "ppNKEKBaxgEh1e6dxksjzqyzuQs", "spine": "3.4.02", "width": 256, "height": 256 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "circle01", "parent": "root" },
+	{ "name": "circle02", "parent": "root" }
+],
+"slots": [
+	{ "name": "fx_dongwu_da", "bone": "root" },
+	{ "name": "circle01", "bone": "circle01", "attachment": "res/circle_002_" },
+	{ "name": "circle1", "bone": "circle02", "attachment": "res/tex_circle" }
+],
+"skins": {
+	"default": {
+		"circle01": {
+			"res/circle_002_": { "width": 256, "height": 256 }
+		},
+		"circle1": {
+			"res/tex_circle": { "width": 256, "height": 256 }
+		},
+		"fx_dongwu_da": {
+			"res/Animal bubble_00": { "width": 356, "height": 326 },
+			"res/Animal bubble_01": { "width": 356, "height": 326 },
+			"res/Animal bubble_02": { "width": 356, "height": 326 },
+			"res/Animal bubble_03": { "width": 356, "height": 326 },
+			"res/Animal bubble_04": { "width": 356, "height": 326 },
+			"res/Animal bubble_05": { "width": 356, "height": 326 },
+			"res/Animal bubble_06": { "width": 356, "height": 326 },
+			"res/Animal bubble_07": { "width": 356, "height": 326 },
+			"res/Animal bubble_08": { "width": 356, "height": 326 },
+			"res/Animal bubble_09": { "width": 356, "height": 326 }
+		}
+	}
+},
+"animations": {
+	"add": {
+		"slots": {
+			"circle01": {
+				"color": [
+					{ "time": 0, "color": "ffffffff" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.6666, "name": "res/circle_002_" }
+				]
+			},
+			"circle1": {
+				"color": [
+					{ "time": 0.8, "color": "ffffffff" },
+					{ "time": 0.9666, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "time": 0.1666, "name": "res/tex_circle" }
+				]
+			},
+			"fx_dongwu_da": {
+				"attachment": [
+					{ "time": 0, "name": "res/Animal bubble_00" },
+					{ "time": 0.0666, "name": "res/Animal bubble_01" },
+					{ "time": 0.1333, "name": "res/Animal bubble_02" },
+					{ "time": 0.2, "name": "res/Animal bubble_03" },
+					{ "time": 0.2666, "name": "res/Animal bubble_04" },
+					{ "time": 0.3333, "name": "res/Animal bubble_05" },
+					{ "time": 0.4, "name": "res/Animal bubble_06" },
+					{ "time": 0.4666, "name": "res/Animal bubble_07" },
+					{ "time": 0.5333, "name": "res/Animal bubble_08" },
+					{ "time": 0.6, "name": "res/Animal bubble_09" },
+					{ "time": 0.6666, "name": null }
+				]
+			}
+		},
+		"bones": {
+			"circle01": {
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 0.5, "y": 0.5 },
+					{ "time": 0.6666, "x": 0, "y": 0 },
+					{ "time": 0.8333, "x": 1, "y": 1 },
+					{ "time": 1.1333, "x": 2, "y": 2 }
+				]
+			},
+			"circle02": {
+				"rotate": [
+					{ "time": 0.1666, "angle": 0 },
+					{ "time": 1.1333, "angle": 180 }
+				],
+				"scale": [
+					{ "time": 0.1666, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.8, "x": 1, "y": 1 },
+					{ "time": 0.9666, "x": 1.5, "y": 1.5 },
+					{ "time": 1.1333, "x": 2, "y": 2 }
+				]
+			}
+		}
+	}
+}
+}

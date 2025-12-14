@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &1789894761901513445
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789894761901513444}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 360, y: 640, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1789894761901513444
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1789894761901513445}
+  - component: {fileID: 1789894761901513446}
+  - component: {fileID: 1789894761901513448}
+  - component: {fileID: 1789894761901513447}
+  - component: {fileID: 1789894761901513449}
+  m_Layer: 0
+  m_Name: "GameScene"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1789894761901513446
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789894761901513444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0dbca87eff9b6c18d5b460748492f309, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DownObject: {fileID: 0}
+  TopBorder: {fileID: 0}
+  TopBorder2: {fileID: 0}
+  topUI: {fileID: 0}
+  scoreText: {fileID: 0}
+  scoreProgress: {fileID: 0}
+  startImg1: {fileID: 0}
+  startImg2: {fileID: 0}
+  startImg3: {fileID: 0}
+  targetImg: {fileID: 0}
+  targetText: {fileID: 0}
+  moveText: {fileID: 0}
+  levelText: {fileID: 0}
+  mapBG: {fileID: 0}
+  HSBJ: {fileID: 0}
+  GameOverMove1: {fileID: 0}
+  GameOverMove2: {fileID: 0}
+  GameOverMove3: {fileID: 0}
+  GameOverMoveUITop: {fileID: 0}
+  GameOverMoveUIDown: {fileID: 0}
+  WinPanel: {fileID: 0}
+  LosePanel: {fileID: 0}
+  jlxzObj: {fileID: 0}
+  BombImage: {fileID: 0}
+  ArrowImage: {fileID: 0}
+  CaiQiuImage: {fileID: 0}
+  BombText: {fileID: 0}
+  ArrowText: {fileID: 0}
+  CaiQiuText: {fileID: 0}
+  SkillAdd: {fileID: 21300000, guid: c03b4c3d38ec4d9f90938d3cd9253bc8, type: 3}
+  SkillNOAdd: {fileID: 21300000, guid: fbb652e488c24df7b8f2bc33c7de1ea0, type: 3}
+  SkillLockImage: {fileID: 21300000, guid: 25eef3eb71254acaa42309d55e1ff5dc, type: 3}
+  gameCombo5: {fileID: 0}
+  scoreParent: {fileID: 0}
+  playProp1: {fileID: 0}
+  playProp2: {fileID: 0}
+  playProp3: {fileID: 0}
+  playProp4: {fileID: 0}
+  playPropMagicPower: {fileID: 0}
+  FZ1: {fileID: 0}
+  FZ2: {fileID: 0}
+  FZ3: {fileID: 0}
+  FZ4: {fileID: 0}
+  comboTrs: {fileID: 0}
+  comboText: {fileID: 0}
+  comboText2: {fileID: 0}
+  only10Trs: {fileID: 0}
+  initEnd: 1
+  iWatchBuyMove: 0
+  fx_ui_goalStarObj: {fileID: 1789894761901513444, guid: f73d65a6aae4cf84db7c6653402e3083, type: 2}
+  fx_goalstar_lightObj: {fileID: 1789894761901513444, guid: e1b247378c549244db2536248eda7723, type: 2}
+  testwinlBtn: {fileID: 0}
+  testNextLevelBtn: {fileID: 0}
+  BeforeStar: 0
+--- !u!114 &1789894761901513447
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789894761901513444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ebd71df0122e6d2f2743922d5c718cd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TipPoint: {fileID: 0}
+  HitPoint: {fileID: 0}
+  HitPoint2: {fileID: 0}
+  fx_qiufashe_lizi: {fileID: 0}
+  line1_1: {fileID: 0}
+  line1_2: {fileID: 0}
+  line1_3: {fileID: 0}
+  line2: {fileID: 0}
+  line1_fx_1: {fileID: 0}
+  line1_fx_2: {fileID: 0}
+  line1_fx_3: {fileID: 0}
+  isShooting: 0
+--- !u!114 &1789894761901513448
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789894761901513444}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f925412300a571c7250f4b0f4250ba51, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LineParent: {fileID: 0}
+  BoxParent: {fileID: 0}
+  BallPrefab: {fileID: 0}
+  FallParent: {fileID: 0}
+  RemoveParent: {fileID: 0}
+  FlyParent: {fileID: 0}
+  FXParent: {fileID: 0}
+  FXSkill4: {fileID: 0}
+  isExitGame: 0
+  iCombo: 0
+  iGameScore: 0
+  iSkill4Count: 0
+  iTestLevel: 10
+  useLongLine: 0
+  readykey: 
+  readyindex: 0
+--- !u!114 &1789894761901513449
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1789894761901513444}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43a3e3f7ee0e5cef481ea4d77664d5fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fpsMeasuringDelta: 1

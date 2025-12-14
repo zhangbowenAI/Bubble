@@ -1,0 +1,90 @@
+
+fx_ball_remove.png
+size: 266,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/fx_pop_00000
+  rotate: false
+  xy: 224, 174
+  size: 35, 35
+  orig: 75, 75
+  offset: 21, 19
+  index: -1
+images/fx_pop_00001
+  rotate: false
+  xy: 181, 150
+  size: 41, 41
+  orig: 75, 75
+  offset: 18, 16
+  index: -1
+images/fx_pop_00002
+  rotate: false
+  xy: 132, 144
+  size: 47, 47
+  orig: 75, 75
+  offset: 15, 13
+  index: -1
+images/fx_pop_00003
+  rotate: false
+  xy: 205, 211
+  size: 53, 53
+  orig: 75, 75
+  offset: 12, 10
+  index: -1
+images/fx_pop_00004
+  rotate: false
+  xy: 2, 2
+  size: 59, 59
+  orig: 75, 75
+  offset: 9, 7
+  index: -1
+images/fx_pop_00005
+  rotate: false
+  xy: 148, 4
+  size: 65, 65
+  orig: 75, 75
+  offset: 6, 4
+  index: -1
+images/fx_pop_00006
+  rotate: false
+  xy: 2, 63
+  size: 71, 71
+  orig: 75, 75
+  offset: 3, 1
+  index: -1
+images/fx_pop_00007
+  rotate: false
+  xy: 132, 193
+  size: 71, 71
+  orig: 75, 75
+  offset: 3, 1
+  index: -1
+images/fx_pop_00008
+  rotate: false
+  xy: 75, 63
+  size: 71, 71
+  orig: 75, 75
+  offset: 3, 1
+  index: -1
+images/fx_pop_00009
+  rotate: false
+  xy: 148, 71
+  size: 68, 71
+  orig: 75, 75
+  offset: 6, 1
+  index: -1
+images/fx_pop_00010
+  rotate: true
+  xy: 63, 31
+  size: 30, 63
+  orig: 75, 75
+  offset: 43, 4
+  index: -1
+images/ring3glow
+  rotate: false
+  xy: 2, 136
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,5 @@
+编号,GooglePay,IOS,金额,金额,描述
+PayKey,GooglePay,IOS,iMoney,RMB,描述
+Piggybank,com.yourpackage.piggybank,com.yourpackage.piggybank,$2.99 ,￥18,金猪
+Lives5,com.yourpackage.lives5,com.yourpackage.lives5,$0.99 ,￥6,5点体力
+Twohourslivs,com.yourpackage.2hrslivs,com.yourpackage.2hrslivs,$1.99 ,￥12,2h无限体力
