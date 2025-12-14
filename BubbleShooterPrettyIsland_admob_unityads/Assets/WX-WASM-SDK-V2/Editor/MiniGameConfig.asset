@@ -13,14 +13,14 @@ MonoBehaviour:
   m_Name: MiniGameConfig
   m_EditorClassIdentifier: 
   ProjectConf:
-    projectName: 
-    Appid: 
+    projectName: "\u5343\u5EA6\u6CE1\u6CE1"
+    Appid: wx9cc432582b979a12
     CDN: 
     assetLoadType: 0
     compressDataPackage: 0
     VideoUrl: 
-    relativeDST: 
-    DST: 
+    relativeDST: C:/Users/24931/Desktop/paopao
+    DST: C:/Users/24931/Desktop/paopao
     StreamCDN: 
     bundleHashLength: 32
     bundlePathIdentifier: StreamingAssets;
@@ -53,7 +53,7 @@ MonoBehaviour:
     ScriptOnly: 0
     Il2CppOptimizeSize: 1
     profilingFuncs: 1
-    Webgl2: 0
+    Webgl2: 1
     fbslim: 0
     DeleteStreamingAssets: 1
     ProfilingMemory: 0
