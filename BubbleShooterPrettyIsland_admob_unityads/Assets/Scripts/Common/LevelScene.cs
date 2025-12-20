@@ -188,7 +188,8 @@ public class LevelScene : MonoBehaviour
 
     public void SetMissionTip()
     {
-        missionTip.SetActive(CheckMissionTip());
+        if (missionTip.gameObject != null)
+            missionTip.SetActive(CheckMissionTip());
     }
 
     private bool CheckMissionTip()

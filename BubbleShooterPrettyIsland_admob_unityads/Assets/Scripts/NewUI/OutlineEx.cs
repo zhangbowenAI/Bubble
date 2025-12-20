@@ -140,10 +140,18 @@ namespace TooSimpleFramework.UI
             pos.y += posYOffset;
             pVertex.position = pos;
             // UV
+            //var uv = pVertex.uv0;
+            //uv += pUVX / pTriangleX.magnitude * posXOffset * (Vector2.Dot(pTriangleX, Vector2.right) > 0 ? 1 : -1);
+            //uv += pUVY / pTriangleY.magnitude * posYOffset * (Vector2.Dot(pTriangleY, Vector2.up) > 0 ? 1 : -1);
+            //pVertex.uv0 = uv;
+
             var uv = pVertex.uv0;
-            uv += pUVX / pTriangleX.magnitude * posXOffset * (Vector2.Dot(pTriangleX, Vector2.right) > 0 ? 1 : -1);
-            uv += pUVY / pTriangleY.magnitude * posYOffset * (Vector2.Dot(pTriangleY, Vector2.up) > 0 ? 1 : -1);
-            pVertex.uv0 = uv;
+            Vector2 uv2 = uv;  // 转换为Vector2
+
+            uv2 += pUVX / pTriangleX.magnitude * posXOffset * (Vector2.Dot(pTriangleX, Vector2.right) > 0 ? 1 : -1);
+            uv2 += pUVY / pTriangleY.magnitude * posYOffset * (Vector2.Dot(pTriangleY, Vector2.up) > 0 ? 1 : -1);
+
+            pVertex.uv0 = new Vector4(uv2.x, uv2.y, uv.z, uv.w);
             // 原始UV框
             pVertex.uv1 = new Vector2(pUVOrigin.x, pUVOrigin.y);
             pVertex.uv2 = new Vector2(pUVOrigin.z, pUVOrigin.w);

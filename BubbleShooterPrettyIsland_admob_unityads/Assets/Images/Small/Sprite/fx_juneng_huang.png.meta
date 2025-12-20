@@ -90,7 +90,7 @@ TextureImporter:
       213: 21300056
     second: fx_juneng_huang_28
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -107,9 +107,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -141,9 +144,15 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -155,6 +164,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
@@ -167,6 +177,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 1
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
@@ -179,6 +190,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   - serializedVersion: 3
@@ -191,6 +203,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
@@ -2774,9 +2787,38 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      fx_juneng_huang_0: 21300000
+      fx_juneng_huang_1: 21300002
+      fx_juneng_huang_10: 21300020
+      fx_juneng_huang_11: 21300022
+      fx_juneng_huang_12: 21300024
+      fx_juneng_huang_13: 21300026
+      fx_juneng_huang_14: 21300028
+      fx_juneng_huang_15: 21300030
+      fx_juneng_huang_16: 21300032
+      fx_juneng_huang_17: 21300034
+      fx_juneng_huang_18: 21300036
+      fx_juneng_huang_19: 21300038
+      fx_juneng_huang_2: 21300004
+      fx_juneng_huang_20: 21300040
+      fx_juneng_huang_21: 21300042
+      fx_juneng_huang_22: 21300044
+      fx_juneng_huang_23: 21300046
+      fx_juneng_huang_24: 21300048
+      fx_juneng_huang_25: 21300050
+      fx_juneng_huang_26: 21300052
+      fx_juneng_huang_27: 21300054
+      fx_juneng_huang_28: 21300056
+      fx_juneng_huang_3: 21300006
+      fx_juneng_huang_4: 21300008
+      fx_juneng_huang_5: 21300010
+      fx_juneng_huang_6: 21300012
+      fx_juneng_huang_7: 21300014
+      fx_juneng_huang_8: 21300016
+      fx_juneng_huang_9: 21300018
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
